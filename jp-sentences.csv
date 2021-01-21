@@ -1,0 +1,1130 @@
+Chapter,Pattern,Page,Type,Kanji,Kana,Meaning
+1,1,1,Pattern,私はジョン・ハリスだ/です。,わたしはジョン・ハリスだ/です。,"(As for myself,) I am John Harris. (INTRODUCING ONESELF)"
+1,1,1,Pattern,私がジョン・ハリスだ/です。,わたしがジョン・ハリスだ/です。,I am (the one whose name is) John Harris.
+1,1,3,Example,私はアメリカ人です。,わたしはアメリカじんです。,I am an American.
+1,1,3,Example,彼女は看護師だ。,かのじょはかんごしだ。,She is a nurse.
+1,1,3,Example,トムは学生です。,トムはがくせいです。,Tom is a student.
+1,1,3,Example,あの人が担当者です。,あのひとがたんとうしゃです。,He (newly introduced) is the person in charge.
+1,1,3,Example,サラが栄養士だ。,サラがえいようしだ。,Sarah (not Linda) is a dietician.
+1,1,4,Practice,彼女は歌手だ/です。,かのじょはかしゅだ/です。,She is a singer.
+1,1,4,Practice,私がエンジニアだ/です。,わたしがエンジニアだ/です。,I (not Bill) am an engineer.
+1,1,4,Practice,アンは会社員だ/です。,アンはかいしゃいんだ/です。,Anne is a company employee.
+1,1,4,Practice,あの人が建築家だ/です。,あのひとがけんちくかだ/です。,He (newly introduced) is an architect.
+1,2,4,Pattern,小田さんは日本語の先生だ/です。,おださんはにほんごのせんせいだ/です。,Mr. Oda is a teacher of Japanese.
+1,2,5,Example,ブラウンさんは私のボスです。,ブラウンさんはわたしのボスです。,Mr. Brown is my boss.
+1,2,5,Example,リンダは学校の看護師だ。,リンダはがっこうのかんごしだ。,Linda is a school nurse. / Linda is a nurse for the school.
+1,2,5,Example,久保秋子さんは弁護士の秘書です。,くぼあきこさんはべんごしのひしょです。,Ms. Akiko Kubo is secretary to a lawyer.
+1,2,5,Example,友達の信子さんはデパートの店員です。,ともだちののぶこさんはデパートのてんいんです。,My friend Nobuko is a clerk at a department store.
+1,2,6,Practice,田中さんは音楽の先生だ/です。,たなかさんはおんがくのせんせいだ/です。,Miss Tanaka is a music teacher.
+1,2,6,Practice,あの人は作家の泉さんだ/です。,あのひとはさっかのいずみさんだ/です。,"He is Mr. Izumi, a writer."
+1,2,6,Practice,サム・アダムスさんは私達の野球のコーチだ/です。,サム・アダムスさんはわたしたちのやきゅうのコーチだ/です。,Mr. Sam Adams is our baseball coach.
+1,2,6,Practice,彼女はベンソンさんの助手だ/です。,かのじょはベンソンさんのじょしゅだ/です。,She is Mr. Benson's assistant.
+1,3,6,Pattern,これは私の辞書だ/です。,これはわたしのじしょだ/です。,This is my dictionary.
+1,3,6,Pattern,この辞書は私のだ/です。,このじしょはわたしのだ/です。,This dictionary is mine.
+1,3,7,Example,これは課長のコートです。,これはかちょうのコートです。,This is the section chief's coat.
+1,3,7,Example,あちらがジョンソンさんの車です。,あちらがジョンソンさんのくるまです。,That over there is Mr. Johnson's car.
+1,3,7,Example,こちらは原先生です。,こちらははらせんせいです。,This is Professor Hara.
+1,3,7,Example,この雑誌はビルのだ。,このざっしはビルのだ。,These magazines are Bill's.
+1,3,7,Example,そちらの傘は木村さんのです。,そちらのかさはきむらさんのです。,That umbrella is Ms. Kimura's.
+1,3,8,Practice,これは森さんの帽子だ/です。,これはもりさんのぼうしだ/です。,This is Ms. Mori's hat.
+1,3,8,Practice,そのかばんは佐田さんのだ/です。,そのかばんはさださんのだ/です。,That bag is Mr. Sada's.
+1,3,8,Practice,こちらは計理士の岡さんだ/です。,こちらはけいりしのおかさんだ/です。,"This is Mr. Oka, the accountant."
+1,3,8,Practice,この携帯は私のだ/です。,このけいたいはわたしのだ/です。,This cell phone is mine.
+1,3,8,Practice,あのビルが目黒の郵便局だ/です。,あのビルがめぐろのゆうびんきょくだ/です。,That building over there is the Meguro post office.
+1,4,9,Pattern,高木さんは弁護士ですか。,たかぎさんはべんごしですか。,Is Ms. Takagi a lawyer?
+1,4,9,Pattern,これは日本語ですか、中国語ですか。,これはにほんごですか、ちゅうごくごですか。,Is this Japanese or Chinese?
+1,4,9,Example,成田さんは新聞社のレポーターですか。,なりたさんはしんぶんしゃのレポーターですか。,Is Ms. Narita a reporter for a newspaper (company)?
+1,4,9,Example,それは課長の机ですか。,それはかちょうのつくえですか。,Is that the section chief's desk?
+1,4,9,Example,三上さんはエンジニアですか、建築家ですか。,みかみさんはエンジニアですか、けんちくかですか。,Is Mr. Mikami an engineer or an architect?
+1,4,9,Example,この本はあなたのですか、ビルのですか。,このほんはあなたのですか、ビルのですか。,Is this book yours or Bill's? / Is this book yours? Bill's?
+1,4,10,Practice,あれは美術館ですか。,あれはびじゅつかんですか。,Is that over there an art museum?
+1,4,10,Practice,これはあなたのかばんですか、原さんの（かばん）ですか。,これはあなたのかばんですか、はらさんの（かばん）ですか。,Is this your bag or Mr. Hara's (bag)?
+1,4,10,Practice,八木さんは中学の先生ですか、高校の先生ですか。,やぎさんはちゅうがくのせんせいですか、こうこうのせんせいですか。,Is Mr. Yagi a middle school teacher or a high school teacher?
+1,5,10,Pattern,あの人はだれですか。,あのひとはだれですか。,Who is that person?
+1,5,10,Pattern,あれは何ですか。,あれはなんですか。,What is that?
+1,5,11,Example,日本の首相はだれですか。,にほんのしゅしょうはだれですか。,Who is the prime minister of Japan?
+1,5,11,Example,このクラスの受け持ちはだれですか。,このクラスのうけもちはだれですか。,Who is in charge of this class?
+1,5,11,Example,あの塔は何ですか。,あのとうはなんですか。,What is that tower over there?
+1,5,11,Example,この箱は何ですか。,このはこはなんですか。,What are these boxes?
+1,5,12,Practice,この店のマネージャーはだれですか。,このみせのマネージャーはだれですか。,Who is the manager of this store?
+1,5,12,Practice,あの音は何ですか。,あのおとはなんですか。,What is that noise?
+1,5,12,Practice,その温泉の名前は何ですか。,そのおんせんのなまえはなんですか。,What is the name of that hot spring?
+1,6,12,Pattern,私は銀行員ではない/ではありません。,わたしはぎんこういんではない/ではありません。,I am not a bank employee.
+1,6,12,Example,ネルソンさんは外交官ではありません。,ネルソンさんはがいこうかんではありません。,Mr. Nelson is not a diplomat.
+1,6,12,Example,私達は佐野先生の学生じゃありません。,わたしたちはさのせんせいのがくせいじゃありません。,We are not Professor Sano's students.
+1,6,12,Example,これは東京駅ではありません。,これはとうきょうえきではありません。,This is not Tokyo Station.
+1,6,13,Example,その鉛筆はジェフのじゃない。,そのえんぴつはジェフのじゃない。,That pencil is not Jeff's.
+1,6,13,Example,あのビルは病院ではない。,あのビルはびょういんではない。,That building over there isn't a hospital.
+1,6,13,Practice,野田さんはジャーナリストではない/ではありません。,のださんはジャーナリストではない/ではありません。,Ms. Noda is not a journalist.
+1,6,13,Practice,彼女は幼稚園の先生じゃない/じゃありません。,かのじょはようちえんのせんせいじゃない/じゃありません。,She is not a kindergarten teacher.
+1,6,13,Practice,友達のダン（さん）は写真家ではない/ではありません。,ともだちのダン（さん）はしゃしんかではない/ではありません。,My friend Dan isn't a photographer.
+1,6,13,Practice,あれは学校の寮ではない/ではありません。,あれはがっこうのりょうではない/ではありません。,That (over there) is not the school dormitory.
+1,7,14,Pattern,私の父は医者だ/です。,わたしのちちはいしゃだ/です。,My father is a doctor.
+1,7,14,Pattern,佐田さんのお父さんも医者だ/です。,さださんのおとうさんもいしゃだ/です。,Ms. Sada's father also is a doctor.
+1,7,16,Example,私の兄は公務員です。課長のお兄さんも公務員です。,わたしのあにはこうむいんです。かちょうのおにいさんもこうむいんです。,My older brother is a civil servant. The section chief's older brother is also a civil servant.
+1,7,16,Example,息子は大学生です。高木先生の息子さんも大学生です。,むすこはだいがくせいです。たかぎせんせいのむすこさんもだいがくせいです。,My son is a college student. Professor Takagi's son is also a college student.
+1,7,16,Example,家内は秘書じゃない。ヒルさんの奥さんも秘書じゃない。,かないはひしょじゃない。ヒルさんのおくさんもひしょじゃない。,"My wife isn't a secretary. Mr. Hill's wife isn't, either."
+1,7,16,Example,祖父は政治家ではない。友達のおじいさんも政治家ではない。,そふはせいじかではない。ともだちのおじいさんもせいじかではない。,"My grandfather isn't a politician. My friend's grandfather isn't, either."
+1,7,17,Practice,母は歴史の先生だ/です。林さんのお母さんも歴史の先生だ/です。,はははれきしのせんせいだ/です。はやしさんのおかあさんもれきしのせんせいだ/です。,My mother is a history teacher. Miss Hayashi's mother is also a history teacher.
+1,7,17,Practice,主人は車のセールスマンだ/です。岡さんのご主人も車のセールスマンだ/です。,しゅじんはくるまのセールスマンだ/です。おかさんのごしゅじんもくるまのセールスマンだ/です。,My husband is a car salesman. Ms. Oka's husband is also a car salesman.
+1,7,17,Practice,娘は歯医者じゃない/じゃありません。矢野さんのお嬢さんも歯医者じゃない/じゃありません。,むすめははいしゃじゃない/じゃありません。やのさんのおじょうさんもはいしゃじゃない/じゃありません。,"My daughter isn't a dentist. Ms. Yano's daughter isn't, either."
+1,8,17,Pattern,小川さんも槙さんも私の友達だ/です。,おがわさんもまきさんもわたしのともだちだ/です。,Mr. Ogawa and Mr. Maki are both my friends.
+1,8,18,Example,この部屋もその部屋も会議室です。,このへやもそのへやもかいぎしつです。,This room and that room are both conference rooms.
+1,8,18,Example,彼も彼女もハーバードの卒業生だ。,かれもかのじょもハーバードのそつぎょうせいだ。,Both he and she are graduates of Harvard.
+1,8,18,Example,ジムもサムもフットボールの選手じゃない。,ジムもサムもフットボールのせんしゅじゃない。,Neither Jim nor Sam is a football player.
+1,8,18,Example,妹はピアニストでも歌手でもありません。,いもうとはピアニストでもかしゅでもありません。,My younger sister is neither a pianist nor a singer.
+1,8,19,Practice,兄も弟もパイロットだ/です。,あにもおとうともパイロットだ/です。,My older brother and younger brother are both pilots.
+1,8,19,Practice,ロスさんもヒルさんも銀行員じゃない/じゃありません。,ロスさんもヒルさんもぎんこういんじゃない/じゃありません。,Neither Mr. Ross nor Mr. Hill are bank employees.
+1,8,19,Practice,このビルはホテルでもアパートでもない/でもありません。,このビルはホテルでもアパートでもない/でもありません。,This building is neither a hotel nor an apartment.
+1,8,19,Practice,この教科書もその参考書も私のじゃない/じゃありません。,このきょうかしょもそのさんこうしょもわたしのじゃない/じゃありません。,Neither this textbook nor that reference book is mine.
+1,9,19,Pattern,ロスさんは英語の先生だった/でした。,ロスさんはえいごのせんせいだった/でした。,Ms. Ross was an English teacher.
+1,9,19,Example,祖父は小学校の校長でした。,そふはしょうがっこうのこうちょうでした。,My grandfather was the principal of an elementary school.
+1,9,19,Example,ブラウンさんはカリフォルニアの知事だった。,ブラウンさんはカリフォルニアのちじだった。,Mr. Brown was the governor of California.
+1,9,20,Example,この店はカメラ屋だった。,このみせはカメラやだった。,This store was a camera shop.
+1,9,20,Example,この部屋もその部屋も私達の教室でした。,このへやもそのへやもわたしたちのきょうしつでした。,This room and that room were both our classrooms.
+1,9,20,Practice,アトキンズさんは日本文学の教授だった/でした。,アトキンズさんはにほんぶんがくのきょうじゅだった/でした。,Mr. Atkins was a professor of Japanese literature.
+1,9,20,Practice,父も兄も科学者だった/でした。,ちちもあにもかがくしゃだった/でした。,Both my father and my older brother were scientists.
+1,9,20,Practice,このレストランは金持ちの別荘だった/でした。,このレストランはかねもちのべっそうだった/でした。,This restaurant was a rich man's second home.
+1,10,21,Pattern,ディナーはフランス料理ではなかった/ではありませんでした。,ディナーはフランスりょうりではなかった/ではありませんでした。,The dinner wasn't French cuisine.
+1,10,21,Example,あの車は坂本さんのじゃありませんでした。,あのくるまはさかもとさんのじゃありませんでした。,That car wasn't Mr. Sakamoto's.
+1,10,21,Example,あの男の人はアメリカ大使館のギブソンさんではありませんでした。,あのおとこのひとはアメリカたいしかんのギブソンさんではありませんでした。,That man wasn't Mr. Gibson of the American Embassy.
+1,10,21,Example,彼女は作家でも詩人でもなかった。,かのじょはさっかでもしじんでもなかった。,She was neither a writer nor a poet.
+1,10,22,Practice,あれは映画館ではなかった/ではありませんでした。,あれはえいがかんではなかった/ではありませんでした。,That was not a movie theater.
+1,10,22,Practice,あの外国人は先生でも学生でもなかった/でもありませんでした。,あのがいこくじんはせんせいでもがくせいでもなかった/でもありませんでした。,That foreigner was neither a teacher nor a student.
+1,10,22,Practice,プレゼントは時計じゃなかった/じゃありませんでした。,プレゼントはとけいじゃなかった/じゃありませんでした。,The present wasn't a watch.
+1,11,22,Pattern,いいワインだ/ですね。,いいワインだ/ですね。,"It's good wine, isn't it?"
+1,11,22,Pattern,きれいな絵だ/ですね。,きれいなえだ/ですね。,"It's a pretty picture, isn't it?"
+1,11,23,Example,甘いオレンジですね。,あまいオレンジですね。,"They're sweet oranges, aren't they?"
+1,11,23,Example,かわいい犬ですね。,かわいいいぬですね。,"It's a cute dog, isn't it?"
+1,11,23,Example,静かな公園ですね。,しずかなこうえんですね。,"It's a quiet park, isn't it?"
+1,11,23,Example,親切な人だね。,しんせつなひとだね。,"She's a kind person, isn't she?"
+1,11,24,Practice,寒い日だ/ですね。,さむいひだ/ですね。,"It's a cold day, isn't it?"
+1,11,24,Practice,おもしろい本だ/ですね。,おもしろいほんだ/ですね。,"It's an interesting book, isn't it?"
+1,11,24,Practice,まじめな学生だ/ですね。,まじめながくせいだ/ですね。,"He's a serious student, isn't he?"
+1,11,24,Practice,便利なかばんだ/ですね。,べんりなかばんだ/ですね。,"It's a convenient bag, isn't it?"
+1,12,24,Pattern,この車は新しい/新しいです。,このくるまはあたらしい/あたらしいです。,This car is new.
+1,12,24,Pattern,あの画家は有名だ/有名です。,あのがかはゆうめいだ/ゆうめいです。,That painter is famous.
+1,12,25,Example,この仕事は難しい。,このしごとはむずかしい。,This work is difficult.
+1,12,25,Example,私達の新しい事務所は広いです。,わたしたちのあたらしいじむしょはひろいです。,Our new office is large.
+1,12,25,Example,あの山は危険だ。,あのやまはきけんだ。,That mountain is dangerous.
+1,12,25,Example,父も母も元気です。,ちちもははもげんきです。,My father and mother are both healthy.
+1,12,26,Practice,ジム（さん）もサラ（さん）も若い/若いです。,ジム（さん）もサラ（さん）もわかい/わかいです。,Jim and Sarah are both young.
+1,12,26,Practice,このコーヒーは冷たい/冷たいですね。,このコーヒーはつめたい/つめたいですね。,"This coffee is cold, isn't it?"
+1,12,26,Practice,この時計は正確だ/正確です。,このとけいはせいかくだ/せいかくです。,This watch is accurate.
+1,13,26,Pattern,このパイはおいしくない/おいしくありません。,このパイはおいしくない/おいしくありません。,This pie is not delicious.
+1,13,26,Pattern,その書類は必要ではない/必要ではありません。,そのしょるいはひつようではない/ひつようではありません。,Those papers are not necessary.
+1,13,26,Example,ビル（さん）の成績はよくない（です）。,ビル（さん）のせいせきはよくない（です）。,Bill's grades are not good.
+1,13,27,Example,地下鉄の駅は遠くありません。,ちかてつのえきはとおくありません。,The subway station isn't far.
+1,13,27,Example,あの人たちは幸せではない。,あのひとたちはしあわせではない。,They are not happy.
+1,13,27,Example,手続きは簡単ではありません。,てつづきはかんたんではありません。,The procedures are not simple.
+1,13,27,Practice,あのレストランは安くない（です）ね。,あのレストランはやすくない（です）ね。,"That restaurant isn't cheap, is it?"
+1,13,27,Practice,会社の会議室は明るくない/明るくありません。,かいしゃのかいぎしつはあかるくない/あかるくありません。,The company conference room isn't bright.
+1,13,27,Practice,この仕事は複雑ではない/複雑ではありません。,このしごとはふくざつではない/ふくざつではありません。,This work is not complicated.
+1,14,28,Pattern,ピクニックは楽しかった/楽しかったです。,ピクニックはたのしかった/たのしかったです。,The picnic was fun.
+1,14,28,Pattern,宴会は豪華だった/豪華でした。,えんかいはごうかだった/ごうかでした。,The banquet was gorgeous.
+1,14,28,Example,小包は重かったです。,こづつみはおもかったです。,The package was heavy.
+1,14,28,Example,山道は狭かった。,やまみちはせまかった。,The mountain road was narrow.
+1,14,28,Example,その町はにぎやかでした。,そのまちはにぎやかでした。,That city was lively.
+1,14,28,Example,私の秘書は有能だった。,わたしのひしょはゆうのうだった。,My secretary was competent.
+1,14,29,Practice,店員は丁寧だった/丁寧でした。,てんいんはていねいだった/ていねいでした。,The store clerk was polite.
+1,14,29,Practice,祖父は頑固だった/頑固でした。,そふはがんこだった/がんこでした。,My grandfather was stubborn.
+1,14,29,Practice,山は険しかった/険しかったです。,やまはけわしかった/けわしかったです。,The mountain was steep.
+1,15,29,Pattern,講義は長くなかった/長くありませんでした。,こうぎはながくなかった/ながくありませんでした。,The lecture was not long.
+1,15,29,Pattern,あの人は正直ではなかった/正直ではありませんでした。,あのひとはしょうじきではなかった/しょうじきではありませんでした。,He wasn't honest.
+1,15,30,Example,地震は大きくなかった（です）。,じしんはおおきくなかった（です）。,The earthquake was not big.
+1,15,30,Example,試験はやさしくありませんでした。,しけんはやさしくありませんでした。,The exam wasn't easy.
+1,15,30,Example,彼女のドレスは派手じゃなかった。,かのじょのドレスははでじゃなかった。,Her dress wasn't showy.
+1,15,30,Example,彼らの生活はぜいたくではありませんでした。,かれらのせいかつはぜいたくではありませんでした。,Their life was not luxurious.
+1,15,31,Practice,試合はおもしろくなかった（です）。,しあいはおもしろくなかった（です）。,The game was not interesting.
+1,15,31,Practice,その町の道はきれいではなかった/きれいではありませんでした。,そのまちのみちはきれいではなかった/きれいではありませんでした。,That city's streets were not clean.
+1,15,31,Practice,このハンドバッグは高くなかった/高くありませんでした。,このハンドバッグはたかくなかった/たかくありませんでした。,This handbag wasn't expensive.
+1,16,31,Pattern,これはアパートで、それはホテルだ/です。,これはアパートで、それはホテルだ/です。,This is an apartment and that is a hotel.
+1,16,31,Example,このスカーフは絹で、そのスカーフはナイロンです。,このスカーフはきぬで、そのスカーフはナイロンです。,This scarf is silk and that one is nylon.
+1,16,32,Example,彼はジャーナリストで、彼女は写真家だった。,かれはジャーナリストで、かのじょはしゃしんかだった。,He was a journalist and she was a photographer.
+1,16,32,Example,これが僕のレポートで、それは林さんのだ。,これがぼくのレポートで、それははやしさんのだ。,This is my report and that is Ms. Hayashi's.
+1,16,32,Practice,これはお寺で、それは神社だ/です。,これはおてらで、それはじんじゃだ/です。,This is a temple and that is a shrine.
+1,16,32,Practice,佐々木さんは歯医者（さん）で、奥さんは受付だった/でした。,ささきさんははいしゃ（さん）で、おくさんはうけつけだった/でした。,Mr. Sasaki was a dentist and his wife was a receptionist.
+1,16,32,Practice,この小さい車が私ので、その大きい車は課長のだ/です。,このちいさいくるまがわたしので、そのおおきいくるまはかちょうのだ/です。,This small car is mine and that big one is the section chief's.
+1,17,33,Pattern,このコートは柔らかくて軽い/軽いです。,このコートはやわらかくてかるい/かるいです。,This coat is soft and light.
+1,17,33,Pattern,店員は親切で丁寧だ/丁寧です。,てんいんはしんせつでていねいだ/ていねいです。,The clerk is kind and polite.
+1,17,33,Example,新しい秘書は若くて優しいです。,あたらしいひしょはわかくてやさしいです。,The new secretary is young and kind.
+1,17,33,Example,風が強くて、波は高かった。,かぜがつよくて、なみはたかかった。,The wind was strong and the waves were high.
+1,17,33,Example,この建物はモダンで立派だ。,このたてものはモダンでりっぱだ。,This structure is modern and magnificent.
+1,17,34,Example,彼の両親は裕福で、彼女の両親は貧乏でした。,かれのりょうしんはゆうふくで、かのじょのりょうしんはびんぼうでした。,His parents were rich and her parents were poor.
+1,17,34,Practice,寮は古くて汚い/汚いです。,りょうはふるくてきたない/きたないです。,The dormitory is old and dirty.
+1,17,34,Practice,この部屋は明るくて、その部屋は暗い/暗いです。,このへやはあかるくて、そのへやはくらい/くらいです。,This room is bright and that one is dark.
+1,17,34,Practice,木田さんはまじめで慎重だった/慎重でした。,きださんはまじめでしんちょうだった/しんちょうでした。,Mr. Kida was serious and careful.
+1,17,34,Practice,岸先生は厳格で、佐野先生は寛大だ/寛大です。,きしせんせいはげんかくで、さのせんせいはかんだいだ/かんだいです。,Professor Kishi is strict and Professor Sano is lenient.
+1,18,35,Pattern,このステーキはおいしいし、安い/安いです。,このステーキはおいしいし、やすい/やすいです。,"This steak is delicious and, what's more, it's inexpensive."
+1,18,35,Pattern,部屋は清潔だし、明るい/明るいです。,へやはせいけつだし、あかるい/あかるいです。,"The room is clean and, what's more, it's sunny."
+1,18,35,Example,その映画は面白いし、教育的です。,そのえいがはおもしろいし、きょういくてきです。,"That movie is interesting and, what's more, it's educational."
+1,18,35,Example,この器具は便利だし、軽い。,このきぐはべんりだし、かるい。,"This tool is convenient, and it's light."
+1,18,35,Example,彼は有能だったし、賢明だった。,かれはゆうのうだったし、けんめいだった。,He was competent and he was also wise.
+1,18,36,Practice,課長の話は長いし、つまらなかった/つまらなかったです。,かちょうのはなしはながいし、つまらなかった/つまらなかったです。,"The section chief's talk was long and, what's more, it was boring."
+1,18,36,Practice,この果物は新鮮だし、安い/安いです。,このくだものはしんせんだし、やすい/やすいです。,"These fruits are fresh, and they're inexpensive."
+1,18,36,Practice,病院の看護師さんは若かったし、親切だった/親切でした。,びょういんのかんごしさんはわかかったし、しんせつだった/しんせつでした。,"The nurses at the hospital were young, and also kind."
+1,19,36,Pattern,うさぎは目が赤い/赤いです。,うさぎはめがあかい/あかいです。,Rabbits have red eyes.
+1,19,37,Example,この車はエンジンがいい。,このくるまはエンジンがいい。,This car has a good engine.
+1,19,37,Example,私は頭が痛いです。,わたしはあたまがいたいです。,I have a headache.
+1,19,37,Example,その半島は気候が温暖です。,そのはんとうはきこうがおんだんです。,That peninsula has a mild climate.
+1,19,37,Example,彼の小説は筋が複雑だ。,かれのしょうせつはすじがふくざつだ。,His novels have complicated plots.
+1,19,38,Practice,この会社の製品は質がいい/いいです。,このかいしゃのせいひんはしつがいい/いいです。,This company's products are of good quality.
+1,19,38,Practice,彼女の家は台所が広い/広いです。,かのじょのいえはだいどころがひろい/ひろいです。,Her house has a large kitchen.
+1,19,38,Practice,その絵は色が鮮やかだ/鮮やかですね。,そのえはいろがあざやかだ/あざやかですね。,"That picture has bright colors, doesn't it?"
+1,20,38,Pattern,試験は難しかったり、やさしかったりする/します。,しけんはむずかしかったり、やさしかったりする/します。,Exams are sometimes difficult and sometimes easy.
+1,20,38,Pattern,この通りは静かだったり、にぎやかだったりする/します。,このとおりはしずかだったり、にぎやかだったりする/します。,This street is sometimes quiet and sometimes lively.
+1,20,39,Example,このレストランのステーキは軟らかかったり、硬かったりする。,このレストランのステーキはやわらかかったり、かたかったりする。,Steaks at this restaurant are sometimes tender and sometimes tough.
+1,20,39,Example,彼の態度は慎重だったり、大胆だったりします。,かれのたいどはしんちょうだったり、だいたんだったりします。,His attitude is sometimes careful and sometimes bold.
+1,20,39,Practice,父は忙しかったり、ひまだったりする/します。,ちちはいそがしかったり、ひまだったりする/します。,My father is sometimes busy and sometimes not busy.
+1,20,39,Practice,問題は簡単だったり、複雑だったりする/します。,もんだいはかんたんだったり、ふくざつだったりする/します。,The problems are sometimes simple and sometimes complicated.
+2,21,40,Pattern,テレビがある/あります。,テレビがある/あります。,There is a TV set.
+2,21,40,Pattern,男の子がいる/います。,おとこのこがいる/います。,There are boys.
+2,21,40,Example,交番があります。,こうばんがあります。,There is a police box.
+2,21,40,Example,警官がいます。,けいかんがいます。,There is a policeman.
+2,21,41,Example,白い鳥がいる。青い鳥もいる。,しろいとりがいる。あおいとりもいる。,There are white birds. There are also blue birds.
+2,21,41,Practice,古い新聞がある/あります。古い雑誌もある/あります。,ふるいしんぶんがある/あります。ふるいざっしもある/あります。,There are old newspapers. There are also old magazines.
+2,21,41,Practice,大きい犬がいる/います。小さい犬もいる/います。,おおきいいぬがいる/います。ちいさいいぬもいる/います。,There is a big dog. There is also a small dog.
+2,21,41,Practice,映画館がある/あります。劇場もある/あります。,えいがかんがある/あります。げきじょうもある/あります。,There is a movie house. There is also a theater.
+2,22,42,Pattern,食べ物が/はない/ありません。,たべものが/はない/ありません。,There isn't any food.
+2,22,42,Pattern,通訳が/はいない/いません。,つうやくが/はいない/いません。,There is no interpreter.
+2,22,42,Example,おもしろいニュースがありません。,おもしろいニュースがありません。,There isn't any interesting news.
+2,22,43,Example,観光客はいません。,かんこうきゃくはいません。,There aren't any tourists.
+2,22,43,Example,馬がいない。羊もいない。,うまがいない。ひつじもいない。,"There are no horses. There are no sheep, either."
+2,22,43,Practice,牛乳が/はない/ありません。,ぎゅうにゅうが/はない/ありません。,There isn't any milk.
+2,22,43,Practice,大人が/はいない/いません。子供もいない/いません。,おとなが/はいない/いません。こどももいない/いません。,"There aren't any adults. There aren't any children, either."
+2,22,43,Practice,犬が/はいない/いません。猫もいない/いません。,いぬが/はいない/いません。ねこもいない/いません。,"There is no dog. There is no cat, either."
+2,23,44,Pattern,地震があった/ありました。,じしんがあった/ありました。,There was an earthquake.
+2,23,44,Pattern,黒い熊がいた/いました。,くろいくまがいた/いました。,There was a black bear.
+2,23,44,Example,ゆうべ交通事故がありました。,ゆうべこうつうじこがありました。,There was a traffic accident last night.
+2,23,44,Example,買い物客がいました。,かいものきゃくがいました。,There were shoppers.
+2,23,44,Example,象がいた。きりんもいた。,ぞうがいた。きりんもいた。,There were elephants. There were also giraffes.
+2,23,45,Practice,先週洪水があった/ありました。,せんしゅうこうずいがあった/ありました。,There was a flood last week.
+2,23,45,Practice,馬がいた/いました。猿もいた/いました。,うまがいた/いました。さるもいた/いました。,There were horses. There were also monkeys.
+2,23,45,Practice,有名人がいた/いました。,ゆうめいじんがいた/いました。,There were celebrities.
+2,24,45,Pattern,近道が/はなかった/ありませんでした。,ちかみちが/はなかった/ありませんでした。,There was no shortcut.
+2,24,45,Pattern,乗客が/はいなかった/いませんでした。,じょうきゃくが/はいなかった/いませんでした。,There were no passengers.
+2,24,45,Example,冷たい飲み物が/はありませんでした。,つめたいのみものが/はありませんでした。,There weren't any cold drinks.
+2,24,46,Example,若いウエイトリスが/はいなかった。,わかいウエイトリスが/はいなかった。,There were no young waitresses.
+2,24,46,Example,バスが/はなかった。タクシーもなかった。,バスが/はなかった。タクシーもなかった。,"There were no buses. There were no taxis, either."
+2,24,46,Practice,通行人が/はいなかった/いませんでした。,つうこうにんが/はいなかった/いませんでした。,There were no passersby.
+2,24,46,Practice,危険な動物が/はいなかった/いませんでした。,きけんなどうぶつが/はいなかった/いませんでした。,There were no dangerous animals.
+2,24,46,Practice,レストランが/はなかった/ありませんでした。ギフトショップもなかった/ありませんでした。,レストランが/はなかった/ありませんでした。ギフトショップもなかった/ありませんでした。,"There was no restaurant. There was no gift shop, either."
+2,25,47,Pattern,切手と封筒がある/あります。,きってとふうとうがある/あります。,There are stamps and envelopes.
+2,25,47,Pattern,カメラマンやレポーターがいる/います。,カメラマンやレポーターがいる/います。,There are cameramen and reporters (and others).
+2,25,47,Example,赤いセーターと茶色のハンドバッグがあります。,あかいセーターとちゃいろのハンドバッグがあります。,There is a red sweater and a brown handbag.
+2,25,47,Example,桜の木や松の木があった。,さくらのきやまつのきがあった。,There were cherry trees and pine trees and others.
+2,25,47,Example,１年生と２年生がいます。,いちねんせいとにねんせいがいます。,There are first and second-year students.
+2,25,47,Example,セールスマンやバイヤーがいた。,セールスマンやバイヤーがいた。,There were salesman and buyers and others.
+2,25,48,Practice,指輪やネックレスがある/あります。,ゆびわやネックレスがある/あります。,There are rings and necklaces and whatnot.
+2,25,48,Practice,おいしいパイとケーキがあった/ありました。,おいしいパイとケーキがあった/ありました。,There were delicious pies and cakes.
+2,25,48,Practice,老人や若い人がいた/いました。,ろうじんやわかいひとがいた/いました。,There were old people and young people and others.
+2,26,48,Pattern,りんごがたくさんある/あります。,りんごがたくさんある/あります。,There are lots of apples.
+2,26,48,Pattern,俳優が５人いる/います。,はいゆうがごにんいる/います。,There are five actors.
+2,26,49,Example,ビールの瓶が２本あります。,ビールのびんがにほんあります。,There are two beer bottles.
+2,26,49,Example,見物人が大勢いました。,けんぶつにんがおおぜいいました。,There were many sightseers.
+2,26,49,Example,子供が４人と犬が３匹いる。,こどもがよにんといぬがさんびきいる。,There are four children and three dogs.
+2,26,49,Example,毛布が６枚ありました。,もうふがろくまいありました。,There were six blankets.
+2,26,50,Practice,水が少しある/あります。,みずがすこしある/あります。,There is a little water.
+2,26,50,Practice,旅館が５軒あった/ありました。,りょかんがごけんあった/ありました。,There were five inns.
+2,26,50,Practice,先生が二人と子供が大勢いる/います。,せんせいがふたりとこどもがおおぜいいる/います。,There are two teachers and many children.
+2,27,50,Pattern,この部屋に本箱がある/あります。,このへやにほんばこがある/あります。,There is a bookcase in this room.
+2,27,50,Pattern,木の下に男の子がいる/います。,きのしたにおとこのこがいる/います。,There are boys under the tree.
+2,27,51,Example,あそこに大きい池があります。,あそこにおおきいいけがあります。,There is a big pond over there.
+2,27,51,Example,駅の前にバス停がある。,えきのまえにバスていがある。,There is a bus stop in front of the station.
+2,27,52,Example,入り口のそばに案内人が二人います。,いりぐちのそばにあんないにんがふたりいます。,There are two guides near the entrance.
+2,27,52,Example,この通りに映画館がある。次の通りにもある。,このとおりにえいがかんがある。つぎのとおりにもある。,There is a movie theater on this street. There is also one one the next street.
+2,27,52,Example,３階には、コーヒーショップがあります。,さんがいには、コーヒーショップがあります。,"On the third floor, there is a coffee shop."
+2,27,52,Practice,川の向こうに工場がある/あります。,かわのむこうにこうじょうがある/あります。,There is a factory beyond the river.
+2,27,53,Practice,キャビネットの横にコピー機がある/あります。,キャビネットのよこにコピーきがある/あります。,There is a copier beside the cabinet.
+2,27,53,Practice,あそこに人が大勢いる/います。,あそこにひとがおおぜいいる/います。,There are many people over there.
+2,27,53,Practice,この池（の中）には、色々な魚がいる/います。,このいけ（のなか）には、いろいろなさかながいる/います。,"In this pond, there are various fish."
+2,28,53,Pattern,机の上に何がありますか。,つくえのうえになにがありますか。,What is on the desk?
+2,28,53,Pattern,応接室にだれがいますか。,おうせつしつにだれがいますか。,Who is in the reception room?
+2,28,53,Example,この引き出しの中に何がありますか。ノートや鉛筆や消しゴムがあります。,このひきだしのなかになにがありますか。ノートやえんぴつやけしごむがあります。,"What is in this drawer? There are notebooks, pencils, erasers, and other things."
+2,28,54,Example,隣の部屋にだれがいますか。部長と秘書がいます。,となりのへやにだれがいますか。ぶちょうとひしょがいます。,Who is in the next room? The department head and the secretary are.
+2,28,54,Practice,冷蔵庫の中に何がありますか。ビールやジュースがあります。,れいぞうこのなかになにがありますか。ビールやジュースがあります。,"What is in the refrigerator? Beer, juice, and other things."
+2,28,55,Practice,橋の上にだれがいますか。女の人と子供がいます。,はしのうえにだれがいますか。おんなのひととこどもがいます。,Who is on the bridge? A woman and some children are.
+2,28,55,Practice,スーパーの近くに何がありますか。ガソリンスタンドがあります。,スーパーのちかくになにがありますか。ガソリンスタンドがあります。,What is near the supermarket? A gas station is.
+2,29,55,Pattern,本は何冊ありますか。,ほんはなんさつありますか。,How many books are there?
+2,29,55,Pattern,留学生は何人いますか。,りゅうがくせいはなんにんいますか。,How many foreign students are there?
+2,29,56,Example,駐車場に車が何台ありますか。１０台あります。,ちゅうしゃじょうにくるまがなんだいありますか。じゅうだいあります。,How many cars are there in the parking lot? There are ten.
+2,29,56,Example,水槽の中に魚が何匹いますか。赤い魚が２匹と青い魚が３匹います。,すいそうのなかにさかながなんびきいますか。あかいさかながにひきとあおいさかながさんびきいます。,How many fish are there in the water tank? There are two red ones and three blue ones.
+2,29,56,Example,かごの中にりんごがいくつありますか。５つあります。,かごのなかにりんごがいくつありますか。いつつあります。,How many apples are there in the basket? There are five.
+2,29,57,Practice,この箱の中に靴が何足ありますか。２足あります。,このはこのなかにくつがなんぞくありますか。にそくあります。,How many pairs of shoes are there in this box? There are two pairs.
+2,29,57,Practice,あなたのクラスに学生が何人いますか。男の学生が２人と女の学生が５人います。,あなたのクラスにがくせいがなんにんいますか。おとこのがくせいがふたりとおんなのがくせいがごにんいます。,How many students are in your class? There are two male students and five female students.
+2,29,57,Practice,テーブルの上に茶碗がいくつありますか。３つあります。,テーブルのうえにちゃわんがいくつありますか。みっつあります。,How many teacups are on the table? There are three.
+2,30,58,Pattern,何かありますか。いいえ、何もありません。,なにかありますか。いいえ、なにもありません。,"Is anything there? No, there is nothing."
+2,30,58,Pattern,だれかいますか。いいえ、だれもいません。,だれかいますか。いいえ、だれもいません。,"Is anybody there? No, there is nobody."
+2,30,58,Example,棚の上に何かありますか。ええ、丸い箱があります。,たなのうえになにかありますか。ええ、まるいはこがあります。,"Is there anything on the shelf? Yes, there is a round box."
+2,30,59,Example,講堂にだれかいましたか。いいえ、だれもいませんでした。,こうどうにだれかいましたか。いいえ、だれもいませんでした。,"Was there anybody in the auditorium? No, there wasn't anyone."
+2,30,59,Example,その島に何か珍しい植物がありましたか。はい、熱帯植物がたくさんありました。,そのしまになにかめずらしいしょくぶつがありましたか。はい、ねったいしょくぶつがたくさんありました。,"Were there any rare plants on that island? Yes, there were many tropical plants."
+2,30,60,Practice,庭にだれかいますか。はい、植木屋さんと男の子がいます。,にわにだれかいますか。はい、うえきやさんとおとこのこがいます。,"Is there anyone in the garden? Yes, a gardener and a boy are."
+2,30,60,Practice,キャビネットの後ろに何かありますか。はい、机が２つあります。,キャビネットのうしろになにかありますか。はい、つくえがふたつあります。,"Is there anything behind the cabinet? Yes, there are two desks."
+2,30,60,Practice,何かおもしろいテレビ番組がありましたか。いいえ、何もありませんでした。,なにかおもしろいテレビばんぐみがありましたか。いいえ、なにもありませんでした。,"Were there any interesting TV programs? No, there were none."
+2,31,60,Pattern,書類は机の上にある/あります。,しょるいはつくえのうえにある/あります。,The document is on the table.
+2,31,60,Pattern,課長は社長の部屋にいる/います。,かちょうはしゃちょうのへやにいる/います。,The section chief is in the president's room.
+2,31,61,Example,私の車はホテルの前にあります。,わたしのくるまはホテルのまえにあります。,My car is in front of the hotel.
+2,31,61,Example,ジョンソンさんは今大阪にいます。,ジョンソンさんはいまおおさかにいます。,Mr. Johnson is in Osaka now.
+2,31,61,Example,台所用品はデパートの５階にあった。,だいどころようひんはデパートのごかいにあった。,Kitchenware was on the fifth floor of the department store.
+2,31,61,Practice,山中さんは今会議室にいる/います。,やまなかさんはいまかいぎしつにいる/います。,Mr. Yamanaka is in the conference room now.
+2,31,61,Practice,マイク（さん）はさっき学校の図書館にいた/いました。,マイク（さん）はさっきがっこうのとしょかんにいた/いました。,Mike was in the school library a while ago.
+2,31,61,Practice,この辞書は神田の古本屋にあった/ありました。,このじしょはかんだのふるほんやにあった/ありました。,This dictionary was at the secondhand bookshop in Kanda.
+2,32,62,Pattern,エレベーターはどこにありますか。,エレベーターはどこにありますか。,Where is the elevator?
+2,32,62,Pattern,木村さんはどこにいますか。,きむらさんはどこにいますか。,Where is Mr. Kimura?
+2,32,62,Example,今日の新聞はどこにありますか/どこですか。テーブルの上にあります/の上です。,きょうのしんぶんはどこにありますか/どこですか。テーブルのうえにあります/のうえです。,Where is today's newspaper? It's on the table.
+2,32,62,Example,部長はどこですか。隣の部屋です。,ぶちょうはどこですか。となりのへやです。,Where is the department head? He's in the next room.
+2,32,63,Example,あなたは去年の夏どこにいましたか。カナダにいました。,あなたはきょねんのなつどこにいましたか。カナダにいました。,Where were you last summer? I was in Canada.
+2,32,64,Practice,お手洗いはどこにありますか/どこですか。エレベーターのそばにあります/そばです。,おてあらいはどこにありますか/どこですか。エレベーターのそばにあります/そばです。,Where is the restroom? It's near the elevator.
+2,32,64,Practice,子供達はどこにいましたか。公園にいました。,こどもたちはどこにいましたか。こうえんにいました。,Where were the children? They were in the park.
+2,32,64,Practice,タクシー乗り場はどこにありますか/どこですか。駅の前にあります/前です。,タクシーのりばはどこにありますか/どこですか。えきのまえにあります/まえです。,Where is the taxi stand? It's in front of the station.
+2,33,64,Pattern,本田さんには白髪がある/あります。,ほんださんにはしらががある/あります。,Mr. Honda has gray hair.
+2,33,64,Pattern,リンダ（さん）には子供がある/いる/あります/います。,リンダ（さん）にはこどもがある/いる/あります/います。,Linda has children.
+2,33,65,Example,ヒルさんには欠点があります。,ヒルさんにはけってんがあります。,Mr. Hill has faults.
+2,33,65,Example,私には息子が３人います。,わたしにはむすこがさんにんいます。,I have three sons.
+2,33,65,Example,町田さんには子供がありません/いません。,まちださんにはこどもがありません/いません。,Ms. Machida has no children.
+2,33,65,Practice,彼には立派な家がある/あります。,かれにはりっぱなうちがある/あります。,He has a magnificent house.
+2,33,65,Practice,兄には今仕事がない/ありません。,あににはいましごとがない/ありません。,My older brother has no job now.
+2,33,65,Practice,あのレストランには常連が大勢いる/います。,あのレストランにはじょうれんがおおぜいいる/います。,That restaurant has many regular customers.
+3,34,66,Pattern,今日のほうが昨日より寒い/寒いです。,きょうのほうがきのうよりさむい/さむいです。,Today is colder than yesterday.
+3,34,66,Example,この部屋のほうが２階の部屋より静かです。,このへやのほうがにかいのへやよりしずかです。,This room is quieter than the one upstairs.
+3,34,66,Example,今晩の宴会のほうが先週の（宴会）より愉快だった。,こんばんのえんかいのほうがせんしゅうの（えんかい）よりゆかいだった。,Tonight's banquet was more enjoyable than last week's.
+3,34,67,Example,東京のほうが大阪より人口が多い。,とうきょうのほうがおおさかよりじんこうがおおい。,Tokyo has a larger population than Osaka.
+3,34,67,Practice,この花瓶のほうがその花瓶よりきれいだ/きれいです。,このかびんのほうがそのかびんよりきれいだ/きれいです。,This vase is prettier than that one.
+3,34,67,Practice,小川さんのほうが久保さんより背が高い/背が高いです。,おがわさんのほうがくぼさんよりせがたかい/せがたかいです。,Mr. Ogawa is taller than Mr. Kubo.
+3,34,67,Practice,私の犬のほうがこの犬より足が短い/短いです。,わたしのいぬのほうがこのいぬよりあしがみじかい/みじかいです。,My dog has shorter legs than this dog.
+3,35,67,Pattern,富士山は日本で一番美しい山だ/です。,ふじさんはにほんでいちばんうつくしいやまだ/です。,Mt. Fuji is the most beautiful mountain in Japan.
+3,35,68,Example,この寺は奈良で一番古いです。,このてらはならでいちばんふるいです。,This temple is the oldest in Nara.
+3,35,68,Example,フランクはクラスで一番優秀な学生だった。,フランクはクラスでいちばんゆうしゅうながくせいだった。,Frank was the best student in the class.
+3,35,68,Example,秘書の中で、安田さんが一番有能です。,ひしょのなかで、やすださんがいちばんゆうのうです。,"Of all the secretaries, Ms. Yasuda is the most competent."
+3,35,69,Practice,びわ湖は日本で一番大きい湖だ/です。,びわこはにほんでいちばんおおきいみずうみだ/です。,Lake Biwa is the largest lake in Japan.
+3,35,69,Practice,この小説は彼の作品の中で一番有名だ/有名です。,このしょうせつはかれのさくひんのなかでいちばんゆうめいだ/ゆうめいです。,This novel is the most famous of his works.
+3,35,69,Practice,私達の先生の中で、佐々木先生が一番親切だ/親切です。,わたしたちのせんせいのなかで、ささきせんせいがいちばんしんせつだ/しんせつです。,"Of all our teachers, Ms. Sasaki is the kindest."
+3,36,69,Pattern,このパイとそのパイと、どちらが甘いですか。そのパイのほうが甘いですよ。,このパイとそのパイと、どちらがあまいですか。そのパイのほうがあまいですよ。,"Which is sweeter, this pie or that pie? That pie is sweeter."
+3,36,70,Example,このひもとそのひもと、どちらが強いですか。そのひものほうが強いでしょう。,このひもとそのひもと、どちらがつよいですか。そのひものほうがつよいでしょう。,"Which is stronger, this cord or that cord? That cord is stronger, I guess."
+3,36,70,Example,お父さんとお母さんと、どちらが厳しかったですか。母のほうが厳しかったです。,おとうさんとおかあさんと、どちらがきびしかったですか。ははのほうがきびしかったです。,"Who was stricter, your father or your mother? My mother was stricter."
+3,36,70,Example,地下鉄とバスと、どっちが便利ですか。地下鉄のほうが便利ですよ。,ちかてつとバスと、どっちがべんりですか。ちかてつのほうがべんりですよ。,"Which is more convenient, the subway or the bus? The subway is more convenient, by far."
+3,36,71,Practice,この紙とその紙と、どちらが厚いですか。その紙のほうが厚いです。,このかみとそのかみと、どちらがあついですか。そのかみのほうがあついです。,"Which is thicker, this paper or that paper? That paper is thicker."
+3,36,71,Practice,今日の試験と昨日の（試験）と、どちらが難しかったですか。今日の試験のほうが難しかったですよ。,きょうのしけんときのうの（しけん）と、どちらがむずかしかったですか。きょうのしけんのほうがむずかしかったですよ。,"Which was more difficult, today's exam or yesterday's (exam)? Today's exam was more difficult, for sure."
+3,36,71,Practice,明子（さん）と恵子（さん）と、どっちが社交的ですか。恵子（さん）のほうが社交的でしょう。,あきこ（さん）とけいこ（さん）と、どっちがしゃこうてきですか。けいこ（さん）のほうがしゃこうてきでしょう。,"Who is more sociable, Akiko or Keiko? Keiko is more sociable, I guess."
+3,37,71,Pattern,この３つの中で、どれが一番丈夫ですか。この赤いのが一番丈夫でしょう。,このみっつのなかで、どれがいちばんじょうぶですか。このあかいのがいちばんじょうぶでしょう。,"Of these three, which is the most durable? This red one is probably the most durable."
+3,37,72,Example,この機械の中で、どれが一番新しいですか。その大きいのが一番新しいです。,このきかいのなかで、どれがいちばんあたらしいですか。そのおおきいのがいちばんあたらしいです。,"Of these machines, which one is the newest? That big one is the newest."
+3,37,72,Example,新入社員の中で、だれが一番有望ですか。山川さんが一番有望でしょう。,しんにゅうしゃいんのなかで、だれがいちばんゆうぼうですか。やまかわさんがいちばんゆうぼうでしょう。,"Of all our new employees, who is the most promising? Ms. Yamakawa is probably the most promising."
+3,37,73,Example,トム（さん）とビル（さん）とサラ（さん）の中で、だれが一番勤勉ですか。サラ（さん）が一番勤勉です。,トム（さん）とビル（さん）とサラ（さん）のなかで、だれがいちばんきんべんですか。サラ（さん）がいちばんきんべんです。,"Who is the most diligent—Tom, Bill, or Sarah? Sarah is the most industrious."
+3,37,73,Practice,この器具の中で、どれが一番使いやすいですか。この軽いのが一番使いやすいです。,このきぐのなかで、どれがいちばんつかいやすいですか。このかるいのがいちばんつかいやすいです。,"Of these utensils, which one is the easiest to use? This light one is the easiest to use."
+3,37,74,Practice,この作文の中で、どれが一番いいですか。その短いのが一番いいでしょう。,このさくぶんのなかで、どれがいちばんいいですか。そのみじかいのがいちばんいいでしょう。,"Among these compositions, which one is the best? That short one is probably the best."
+3,37,74,Practice,由紀子（さん）と、幸子（さん）と、みどり（さん）の中で、だれが一番勤勉ですか。みどり（さん）が一番勤勉です。,ゆきこ（さん）と、さちこ（さん）と、みどり（さん）のなかで、だれがいちばんきんべんですか。みどり（さん）がいちばんきんべんです。,"Who is the most diligent—Yukiko, Sachiko, or Midori? Midori is the most diligent."
+3,38,74,Pattern,この画家はピカソ（と同じ）くらい有名だ/有名です。,このがかはピカソ（とおなじ）くらいゆうめいだ/ゆうめいです。,This painter is about as famous as Picasso.
+3,38,74,Example,今ニューヨークは東京（と同じ）くらい蒸し暑いです。,いまニューヨークはとうきょう（とおなじ）くらいむしあついです。,New York is about as humid as Tokyo now.
+3,38,74,Example,弟は僕（と同じ）ぐらい背が高い。,おとうとはぼく（とおなじ）ぐらいせがたかい。,My little brother is about as tall as me.
+3,38,75,Example,この時計はその時計（と同じ）ぐらい正確だ。,このとけいはそのとけい（とおなじ）ぐらいせいかくだ。,This watch is about as accurate as that one.
+3,38,75,Practice,この指輪はダイヤモンド（と同じ）くらい高い/高いです。,このゆびわはダイヤモンド（とおなじ）くらいたかい/たかいです。,This ring is about as expensive as a diamond.
+3,38,75,Practice,この小説はその小説（と同じ）ぐらいつまらない/つまらないです。,このしょうせつはそのしょうせつ（とおなじ）ぐらいつまらない/つまらないです。,This novel is about as boring as that one.
+3,38,75,Practice,その山道はこの道（と同じ）ぐらい安全だ/安全です。,そのやまみちはこのみち（とおなじ）ぐらいあんぜんだ/あんぜんです。,That mountain road is about as safe as this road.
+3,39,75,Pattern,このかばんはそのかばんほど重くない/重くありません。,このかばんはそのかばんほどおもくない/おもくありません。,This briefcase is not as heavy as that one.
+3,39,76,Example,このレポートは和田さんのレポートほど詳しくありません。,このレポートはわださんのレポートほどくわしくありません。,This report is not as detailed as Ms. Wada's report.
+3,39,76,Example,この問題はその問題ほど大切ではありません。,このもんだいはそのもんだいほどたいせつではありません。,This problem is not as important as that one.
+3,39,76,Example,この犬は私の犬ほど賢くない。,このいぬはわたしのいぬほどかしこくない。,This dog is not as intelligent as my dog.
+3,39,77,Practice,このコートはその茶色の（コート）ほど柔らかくない/柔らかくありません。,このコートはそのちゃいろの（コート）ほどやわらかくない/やわらかくありません。,This coat is not as soft as that brown one.
+3,39,77,Practice,このコンピューターは前の（コンピューター）ほど高くない/高くありません。,このコンピューターはまえの（コンピューター）ほどたかくない/たかくありません。,This computer is not as expensive as my old one.
+3,39,77,Practice,私は姉ほど細くない/細くありません。,わたしはあねほどほそくない/ほそくありません。,I am not as thin as my older sister.
+4,40,78,Pattern,彼は毎朝６時に起きる/起きます。,かれはまいあさろくじにおきる/おきます。,He gets up at 6 o'clock every morning.
+4,40,79,Example,コンサートは午後８時に始まる。,コンサートはごごはちじにはじまる。,The concert starts at 8 P.M.
+4,40,79,Example,課長は月曜日に出掛けます。,かちょうはげつようびにでかけます。,The section chief will leave on Monday.
+4,40,79,Example,佐川さんは来週来ます。,さがわさんはらいしゅうきます。,Mr. Sagawa will come next week.
+4,40,79,Example,私達は春（に）旅行します。,わたしたちははる（に）りょこうします。,We travel in spring. / We will take a trip in the spring.
+4,40,80,Practice,学校は何時に始まりますか。,がっこうはなんじにはじまりますか。,What time does school begin?
+4,40,80,Practice,銀行は９時に開く/開きます。,ぎんこうはくじにあく/あきます。,The bank opens at 9 o'clock.
+4,40,80,Practice,部長は明日出張する/出張します。,ぶちょうはあしたしゅっちょうする/しゅっちょうします。,The department head will make a business trip tomorrow.
+4,40,80,Practice,子供は毎晩８時に寝る/寝ます。,こどもはまいばんはちじにねる/ねます。,The child goes to bed at 8 o'clock every night.
+4,41,80,Pattern,食堂で朝ご飯を食べる/食べます。,しょくどうであさごはんをたべる/たべます。,I eat breakfast in the dining room.
+4,41,81,Example,ジェフさんは図書館で新聞を読みます。,ジェフさんはとしょかんでしんぶんをよみます。,Jeff reads newspapers in the library.
+4,41,81,Example,午後講堂で映画がある。,ごごこうどうでえいががある。,There will be a movie in the auditorium in the afternoon.
+4,41,81,Example,この件は、後で調べます。,このけんは、あとでしらべます。,"As for this matter, I'll check into it later."
+4,41,82,Practice,ジム（さん）は友達の家で宿題をする/します。,ジム（さん）はともだちのうちでしゅくだいをする/します。,Jim does his homework at his friend's house.
+4,41,82,Practice,このホールで時々コンサートがある/あります。,このホールでときどきコンサートがある/あります。,There are sometimes concerts in this hall.
+4,41,82,Practice,私達は居間でテレビを見る/見ます。,わたしたちはいまでテレビをみる/みます。,We watch TV in the living room.
+4,41,82,Practice,昼ご飯は、教室で食べる/食べます。,ひるごはんは、きょうしつでたべる/たべます。,"As for lunch, I eat it in the classroom."
+4,42,82,Pattern,酒井さんはコーヒーは飲まない/飲みません。,さかいさんはコーヒーはのまない/のみません。,Mr. Sakai doesn't drink coffee. (IMPLYING: But he drinks tea.)
+4,42,82,Example,阿部さんは韓国語は話しません。,あべさんはかんこくごははなしません。,"Mr. Abe doesn't speak Korean. (IMPLYING: But he speaks Chinese, etc.)"
+4,42,83,Example,小崎先生は数学は教えない。,おざきせんせいはすうがくはおしえない。,"Professor Ozaki doesn't teach mathematics. (IMPLYING: But he teaches science, etc.)"
+4,42,83,Example,正子（さん）はテニスはします。ゴルフはしません。,まさこ（さん）はテニスはします。ゴルフはしません。,Masako plays tennis. She doesn't play golf.
+4,42,83,Practice,あの店で肉は買わない/買いません。,あのみせでにくはかわない/かいません。,"I don't buy meat at that store. (IMPLYING: I buy fish, etc. there.)"
+4,42,83,Practice,彼女はワインは飲む/飲みます。ビールは飲まない/飲みません。,かのじょはワインはのむ/のみます。ビールはのまない/のみません。,She drinks wine. She doesn't drink beer.
+4,42,83,Practice,妹は赤いセーターは着ない/着ません。,いもうとはあかいセーターはきない/きません。,My younger sister doesn't wear red sweaters. (IMPLYING: But she wears sweaters of other colors.)
+4,43,84,Pattern,チャールズ（さん）は毎日自転車で学校へ/に来る/来ます。,チャールズ（さん）はまいにちじてんしゃでがっこうへ/にくる/きます。,Charles comes to school by bicycle every day.
+4,43,84,Example,ヒルさんは来週車でテキサスへ帰る。,ヒルさんはらいしゅうくるまでテキサスへかえる。,Mr. Hill will return (home) to Texas by car next week.
+4,43,84,Example,ヘレンさんはどこへ行きますか。,ヘレンさんはどこへいきますか。,Where is Helen going?
+4,43,84,Example,来年の夏、船でハワイに行きます。,らいねんのなつ、ふねでハワイにいきます。,We are going to Hawaii by boat next summer.
+4,43,85,Example,午後、銀行へ行きます。郵便局へは行きません。,ごご、ぎんこうへいきます。ゆうびんきょくへはいきません。,This afternoon I'll go to the bank. Not to the post office.
+4,43,85,Practice,観光バスでどこへ行きますか。,かんこうバスでどこへいきますか。,Where are you going by the sightseeing bus?
+4,43,85,Practice,彼は毎日電車で会社に来る/来ます。車では来ない/来ません。,かれはまいにちでんしゃでかいしゃにくる/きます。くるまではこない/きません。,He comes to the office by train every day. Not by car.
+4,43,85,Practice,明日の朝、９時の飛行機で博多へ行く/行きます。,あしたのあさ、くじのひこうきではかたへいく/いきます。,I'm going to Hakata on the 9 o'clock plane tomorrow morning.
+4,44,85,Pattern,朝８時に家を出る/出ます。,あさはちじにうちをでる/でます。,I leave home at 8 o'clock in the morning.
+4,44,86,Example,ビルは来年大学を卒業する。,ビルはらいねんだいがくをそつぎょうする。,Bill will graduate from college next year.
+4,44,86,Example,木下さんは新宿で電車を降ります。,きのしたさんはしんじゅくででんしゃをおります。,Mr. Kinoshita gets off the train at Shinjuku.
+4,44,86,Example,何時にホテルをチェックアウトしますか。,なんじにホテルをチェックアウトしますか。,What time will you check out of the hotel?
+4,44,86,Practice,林さんは３月に会社を辞める/辞めます。,はやしさんはさんがつにかいしゃをやめる/やめます。,Ms. Hayashi will quit the company in March.
+4,44,86,Practice,バスは何時にホテルを出ますか。,バスはなんじにホテルをでますか。,What time does the bus leave the hotel?
+4,45,87,Pattern,ジョン（さん）は日本の会社に入る/入ります。,ジョン（さん）はにほんのかいしゃにはいる/はいります。,John will enter a Japanese company.
+4,45,87,Example,駅前でバスに乗ります。,えきまえでバスにのります。,I get on the bus in front of the station.
+4,45,87,Example,サムはもうすぐ柔道クラブに入る。,サムはもうすぐじゅうどうクラブにはいる。,"Sam will join (literally, ""enter"") the judo club soon."
+4,45,87,Example,ホワイトさんは今晩空港に着く。,ホワイトさんはこんばんくうこうにつく。,Mr. White will arrive at the airport this evening.
+4,45,87,Example,急行はどのホームに着きますか。６番ホームです。,きゅうこうはどのホームにつきますか。ろくばんホームです。,On which platform does the express (train) arrive? It's platform No. 6.
+4,45,88,Practice,息子は来春幼稚園に入る/入ります。,むすこはらいしゅんようちえんにはいる/はいります。,My son will enter kindergarten next spring.
+4,45,88,Practice,時々虫が部屋に入る/入ります。,ときどきむしがへやにはいる/はいります。,Sometimes bugs come into my room.
+4,45,88,Practice,飛行機はどのゲートに着きますか。８番ゲートです。,ひこうきはどのゲートにつきますか。はちばんゲートです。,At which gate does the airplane arrive? Gate No. 8.
+4,46,88,Pattern,今出掛けるところだ/です。,いまでかけるところだ/です。,I am just about to go out.
+4,46,89,Example,母は朝ご飯を食べるところです。,はははあさごはんをたべるところです。,My mother is just about to eat breakfast.
+4,46,89,Example,船は港に入るところだ。,ふねはみなとにはいるところだ。,The ship is just about to enter the port.
+4,46,89,Example,乗客はバスを降りるところです。,じょうきゃくはバスをおりるところです。,The passengers are just about to get off the bus.
+4,46,89,Practice,今CDを聞くところだ/です。,いまシーディーをきくところだ/です。,I am just about to listen to a CD.
+4,46,89,Practice,電車は駅を出るところだ/です。,でんしゃはえきをでるところだ/です。,The train is about to leave the station.
+4,46,89,Practice,学生は講堂に入るところだ/です。,がくせいはこうどうにはいるところだ/です。,The students are just about to enter the auditorium.
+4,47,90,Pattern,先月友達と旅行した/旅行しました。,せんげつともだちとりょこうした/りょこうしました。,I traveled with my friend last month.
+4,47,90,Example,子供と一緒に遊園地へ行きました。,こどもといっしょにゆうえんちへいきました。,I went to the amusement park with the children.
+4,47,90,Example,宏は公園で犬と遊んだ。,ひろしはこうえんでいぬとあそんだ。,Hiroshi played with a dog in the park.
+4,47,90,Example,ゆうべフランクとレストランで食事をした。,ゆうべフランクとレストランでしょくじをした。,Last night I had a meal with Frank at a restaurant.
+4,47,90,Example,みどりさんは去年アメリカ人と結婚しました。,みどりさんはきょねんアメリカじんとけっこんしました。,Midori married an American last year.
+4,47,91,Practice,土曜日に兄とテニスをした/しました。,どようびにあにとテニスをした/しました。,I played tennis with my older brother on Saturday.
+4,47,91,Practice,時々弟とけんかした/けんかしました。,ときどきおとうととけんかした/けんかしました。,Sometimes I fought with my younger brother.
+4,47,91,Practice,ホテルのロビーで友達と話した/話しました。,ホテルのロビーでともだちとはなした/はなしました。,I talked with my friend in the lobby of the hotel.
+4,48,91,Pattern,パーティーは７時から始まった/始まりました。,パーティーはしちじからはじまった/はじまりました。,The party started at 7 o'clock.
+4,48,91,Pattern,動物園まで歩いた/歩きました。,どうぶつえんまであるいた/あるきました。,I walked to the zoo.
+4,48,92,Example,図書館で２時から４時まで勉強しました。,としょかんでにじからよじまでべんきょうしました。,I studied in the library from 2 o'clock to 4 o'clock.
+4,48,92,Example,この船はアラスカから来た。,このふねはアラスカからきた。,This ship came from Alaska.
+4,48,92,Example,目黒まで地下鉄に乗りました。,めぐろまでちかてつにのりました。,I took the subway to Meguro.
+4,48,92,Example,フランクさんと一緒に空港まで行きました。,フランクさんといっしょにくうこうまでいきました。,I went with Frank as far as the airport.
+4,48,93,Practice,彼女は月曜日から金曜日までスーパーで働いた/働きました。,かのじょはげつようびからきんようびまでスーパーではたらいた/はたらきました。,She worked at a supermarket from Monday through Friday.
+4,48,93,Practice,空港からホテルまでタクシーに乗った/乗りました。,くうこうからホテルまでタクシーにのった/のりました。,I took a taxi from the airport to the hotel.
+4,48,93,Practice,この本は、初めから終わりまで読んだ/読みました。,このほんは、はじめからおわりまでよんだ/よみました。,"As for this book, I read it from beginning to end."
+4,49,93,Pattern,父は今起きたところだ/です。,ちちはいまおきたところだ/です。,My father has just gotten up.
+4,49,93,Example,宿題を終えたところです。,しゅくだいをおえたところです。,I have just finished my homework.
+4,49,93,Example,列車はトンネルを出たところだ。,れっしゃはトンネルをでたところだ。,The train has just come out of a tunnel.
+4,49,93,Example,ネルソンさんはアメリカへ帰ったところです。,ネルソンさんはアメリカへかえったところです。,Mr. Nelson has just returned (home) to America.
+4,49,94,Practice,この小包は今着いたところだ/です。,このこづつみはいまついたところだ/です。,This package has just arrived.
+4,49,94,Practice,新しいプロジェクトを始めたところだ/です。,あたらしいプロジェクトをはじめたところだ/です。,We have just started a new project.
+4,49,94,Practice,木村さんは家を売ったところだ/です。,きむらさんはうちをうったところだ/です。,Mr. Kimura has just sold his house.
+4,50,94,Pattern,その子は電気をつけたまま寝る/寝ます。,そのこはでんきをつけたままねる/ねます。,That child sleeps with the lights on.
+4,50,95,Example,彼は立ったままケーキを食べた。,かれはたったままケーキをたべた。,He ate the cake standing up.
+4,50,95,Example,ルームメートはよくテレビをつけたまま出掛けます。,ルームメートはよくテレビをつけたままでかけます。,My roommate often goes out leaving the TV on.
+4,50,95,Example,少年は両手をポケットに入れたまま答えた。,しょうねんはりょうてをポケットにいれたままこたえた。,The boy answered with both hands in his pockets.
+4,50,95,Practice,彼女はコートを着たままお茶を飲んだ/飲みました。,かのじょはコートをきたままおちゃをのんだ/のみました。,She drank tea with her coat on.
+4,50,95,Practice,時々私は窓を開けたまま寝る/寝ます。,ときどきわたしはまどをあけたままねる/ねます。,Sometimes I sleep with the window open.
+4,50,95,Practice,学生は帽子をかぶったまま講堂に入った/入りました。,がくせいはぼうしをかぶったままこうどうにはいった/はいりました。,The student entered the auditorium with a hat on.
+4,51,96,Pattern,音楽を聞きながら勉強する/勉強します。,おんがくをききながらべんきょうする/べんきょうします。,I study while listening to music.
+4,51,96,Example,鈴木さんはたばこを吸いながらレポートを読みます。,すずきさんはたばこをすいながらレポートをよみます。,Mr. Suzuki reads reports while smoking.
+4,51,96,Example,ビールを飲みながら友達とテレビを見た。,ビールをのみながらともだちとテレビをみた。,I watched TV with my friend while drinking beer.
+4,51,96,Example,先生はスライドを見せながら説明しました。,せんせいはスライドをみせながらせつめいしました。,The teacher explained while showing slides.
+4,51,97,Practice,ダン（さん）は歩きながら言葉を覚える/覚えます。,ダン（さん）はあるきながらことばをおぼえる/おぼえます。,Dan memorizes words while walking.
+4,51,97,Practice,アン（さん）は辞書を使いながら日本語で作文を書いた/書きました。,アン（さん）はじしょをつかいながらにほんごでさくぶんをかいた/かきました。,Anne wrote a composition in Japanese while using a dictionary.
+4,51,97,Practice,ハンバーガーを食べながらサム（さん）と電話で話した/話しました。,ハンバーガーをたべながらサム（さん）とでんわではなした/はなしました。,I talked with Sam on the phone while eating a hamburger.
+4,52,97,Pattern,桜の花は３月に咲き始める/咲き始めます。,さくらのはなはさんがつにさきはじめる/さきはじめます。,The cherry blossoms will begin to bloom in March.
+4,52,97,Example,雨が降り始めました。,あめがふりはじめました。,It began to rain. / Rain began to fall.
+4,52,98,Example,電車はやっと動き始めた。,でんしゃはやっとうごきはじめた。,The train finally began to move.
+4,52,98,Example,ジムは道子と付き合い始めたところだ。,ジムはみちことつきあいはじめたところだ。,Jim has just started to date Michiko.
+4,52,98,Practice,雪が降り始めた/降り始めました。,ゆきがふりはじめた/ふりはじめました。,It began to snow. / Snow began to fall.
+4,52,98,Practice,切手を集め始めたところだ/です。,きってをあつめはじめたところだ/です。,I have just started to collect stamps.
+4,52,98,Practice,明日からピアノを練習し始める/練習し始めます。,あしたからピアノをれんしゅうしはじめる/れんしゅうしはじめます。,"I will begin to practice the piano, starting tomorrow."
+4,53,99,Pattern,彼はもうすぐ論文を書き終わる/書き終わります。,かれはもうすぐろんぶんをかきおわる/かきおわります。,He will finish writing his thesis soon.
+4,53,99,Example,主人は朝ご飯を食べ終わりました。,しゅじんはあさごはんをたべおわりました。,My husband finished eating his breakfast.
+4,53,99,Example,警察はその事件を調べ終わった。,けいさつはそのじけんをしらべおわった。,The police finished investigating the case.
+4,53,99,Example,この歴史の本を読み終わったところです。,このれきしのほんをよみおわったところです。,I have just finished reading this history book.
+4,53,100,Practice,彼は車を洗い終わった/洗い終わりました。,かれはくるまをあらいおわった/あらいおわりました。,He finished washing his car.
+4,53,100,Practice,父は芝生を刈り終わったところだ/です。,ちちはしばふをかりおわったところだ/です。,My father has just finished mowing the lawn.
+4,53,100,Practice,課長は話し終わったところだ/です。,かちょうははなしおわったところだ/です。,The section chief has just finished speaking.
+4,54,100,Pattern,今朝、朝ご飯を食べなかった/食べませんでした。,けさ、あさごはんをたべなかった/たべませんでした。,I didn't eat breakfast this morning.
+4,54,100,Example,木田さんは今日会社へ来ませんでした。,きださんはきょうかいしゃへきませんでした。,Mr. Kida didn't come to the office today.
+4,54,101,Example,昨日デパートで買い物しなかった。,きのうデパートでかいものしなかった。,I didn't shop at the department store yesterday.
+4,54,101,Example,ビルはゆうべのパーティーでベスと踊らなかった。,ビルはゆうべのパーティーでベスとおどらなかった。,Bill didn't dance with Beth at last night's party.
+4,54,101,Practice,彼は週末（に）泳がなかった/泳ぎませんでした。,かれはしゅうまつ（に）およがなかった/およぎませんでした。,He didn't swim on the weekend.
+4,54,101,Practice,先月は映画を見なかった/見ませんでした。,せんげつはえいがをみなかった/みませんでした。,Last month I didn't see a movie.
+4,54,101,Practice,彼らはホテルのレストランで食べなかった/食べませんでした。,かれらはホテルのレストランでたべなかった/たべませんでした。,They didn't eat at the hotel's restaurant.
+4,55,102,Pattern,昨日は公園へ行った/行きましたが、今日は行かなかった/行きませんでした。,きのうはこうえんへいった/いきましたが、きょうはいかなかった/いきませんでした。,"I went to the park yesterday, but not today."
+4,55,102,Example,プールでは泳いだが、海では泳がなかった。,プールではおよいだが、うみではおよがなかった。,"I swam in the pool, but not in the ocean."
+4,55,102,Example,姉はパリへは行きましたが、ローマへは行きませんでした。,あねはパリへはいきましたが、ローマへはいきませんでした。,"My older sister went to Paris, but not to Rome."
+4,55,103,Example,須田さんは列車では旅行したが、飛行機では旅行しなかった。,すださんはれっしゃではりょこうしたが、ひこうきではりょこうしなかった。,"Mr. Suda traveled by train, but not by plane."
+4,55,103,Practice,ゆうべは復習した/しましたが、今晩はしなかった/しませんでした。,ゆうべはふくしゅうした/しましたが、こんばんはしなかった/しませんでした。,"I reviewed (my lesson) last night, but not tonight."
+4,55,103,Practice,彼は家では飲んだ/飲みましたが、バーでは飲まなかった/飲みませんでした。,かれはうちではのんだ/のみましたが、バーではのまなかった/のみませんでした。,"He drank at home, but not at a bar."
+4,55,103,Practice,三木さんは課長とはゴルフをした/しましたが、社長とはしなかった/しませんでした。,みきさんはかちょうとはゴルフをした/しましたが、しゃちょうとはしなかった/しませんでした。,"Mr. Miki played golf with the section chief, but not with the president."
+5,56,104,Pattern,今、朝ご飯を食べている/食べています。,いま、あさごはんをたべている/たべています。,I am eating breakfast right now.
+5,56,104,Example,和夫は庭で犬と遊んでいる。,かずおはにわでいぬとあそんでいる。,Kazuo is playing in the yard with his dog.
+5,56,104,Example,私はお茶を飲みながら音楽を聞いています。,わたしはおちゃをのみながらおんがくをきいています。,I am listening to music and drinking tea.
+5,56,104,Example,田村さんはさっき電話をかけていました。,たむらさんはさっきでんわをかけていました。,Ms. Tamura was making a phone call a while ago.
+5,56,105,Practice,姉は今台所でクッキーを焼いている/焼いています。,あねはいまだいどころでクッキーをやいている/やいています。,My older sister is baking cookies in the kitchen now.
+5,56,105,Practice,サム（さん）は辞書を使いながら新聞を読んでいる/読んでいます。,サム（さん）はじしょをつかいながらしんぶんをよんでいる/よんでいます。,Sam is reading a newspaper and using a dictionary.
+5,56,105,Practice,佐々木さんはさっきレポートを書き直していた/書き直していました。,ささきさんはさっきレポートをかきなおしていた/かきなおしていました。,Mr. Sasaki was rewriting the report a while ago.
+5,57,105,Pattern,鳥が空を飛んでいる/飛んでいます。,とりがそらをとんでいる/とんでいます。,Birds are flying in the sky.
+5,57,105,Example,小さい魚が川の底を泳いでいる。,ちいさいさかながかわのそこをおよいでいる。,Small fish are swimming along the bottom of the river.
+5,57,106,Example,大勢の人が駅前の道を歩いていた。,おおぜいのひとがえきまえのみちをあるいていた。,Many people were walking along the street in front of the station.
+5,57,106,Example,バスが橋を渡っている。,バスがはしをわたっている。,The bus is crossing the bridge.
+5,57,106,Practice,かもめが海の上を飛んでいた/飛んでいました。,かもめがうみのうえをとんでいた/とんでいました。,Seagulls were flying over the ocean.
+5,57,106,Practice,若い男の人が海岸を歩いている/歩いています。,わかいおとこのひとがかいがんをあるいている/あるいています。,A young man is walking along the beach.
+5,57,106,Practice,車が道の左側を走っている/走っています。,くるまがみちのひだりがわをはしっている/はしっています。,Cars are running on the left side of the street.
+5,58,107,Pattern,子供達はテレビを見てばかりいる/見てばかりいます。,こどもたちはテレビをみてばかりいる/みてばかりいます。,The kids are doing nothing but watching TV.
+5,58,107,Example,泉さんはパーティーでビールを飲んでばかりいた。,いずみさんはパーティーでビールをのんでばかりいた。,Mr. Izumi was doing nothing but drinking beer at the party.
+5,58,107,Example,ルームメートは漫画を読んでばかりいる。,ルームメートはまんがをよんでばかりいる。,My roommate is doing nothing but reading manga.
+5,58,107,Example,猫は一日中ソファの上で寝てばかりいます。,ねこはいちにちじゅうソファのうえでねてばかりいます。,The cat is doing nothing but sleeping on the sofa all day long.
+5,58,108,Practice,彼女は映画を見てばかりいた/見てばかりいました。,かのじょはえいがをみてばかりいた/みてばかりいました。,She was doing nothing but watching movies.
+5,58,108,Practice,兄は詩を書いてばかりいた/書いてばかりいました。,あにはしをかいてばかりいた/かいてばかりいました。,My older brother was doing nothing but writing poems.
+5,58,108,Practice,息子は新しいカメラで写真を撮ってばかりいる/撮ってばかりいます。,むすこはあたらしいカメラでしゃしんをとってばかりいる/とってばかりいます。,My son is doing nothing but taking pictures with his new camera.
+5,59,108,Pattern,両親はボストンに住んでいる/住んでいます。,りょうしんはボストンにすんでいる/すんでいます。,My parents live in Boston.
+5,59,108,Example,オルソンさんは日本の会社に勤めている。,オルソンさんはにほんのかいしゃにつとめている。,Ms. Olson works for a Japanese company.
+5,59,109,Example,娘の秋子は演劇学校に行っています。,むすめのあきこはえんげきがっこうにいっています。,My daughter Akiko goes to drama school.
+5,59,109,Example,ヤングさんは高校で英語を教えていた。,ヤングさんはこうこうでえいごをおしえていた。,Mr. Young was teaching English at high school.
+5,59,109,Practice,私は地下鉄で大学に通っている/通っています。,わたしはちかてつでだいがくにかよっている/かよっています。,I commute to the university by subway.
+5,59,109,Practice,友達の和子さんは外務省に勤めていた/勤めていました。,ともだちのかずこさんはがいむしょうにつとめていた/つとめていました。,My friend Kazuko was working for the Foreign Ministry.
+5,59,109,Practice,ライスさんはどこに住んでいますか。,ライスさんはどこにすんでいますか。,Where does Mr. Rice live?
+5,60,110,Pattern,会議室のドアが開いている/開いています。,かいぎしつのドアがあいている/あいています。,The door of the conference room is open.
+5,60,110,Example,あそこにバスが止まっている。,あそこにバスがとまっている。,"The bus is stopped over there. (PREVIOUS ACTION: ""stop,"" ""come to a stop"")"
+5,60,110,Example,久保さんは茶色の背広を着ています。,くぼさんはちゃいろのせびろをきています。,"Mr. Kubo is wearing a brown suit. (PREVIOUS ACTION: ""put on"")"
+5,60,110,Example,山田さんは来ていますが、佐伯さんはまだ来ていません。,やまださんはきていますが、さえきさんはまだきていません。,"Mr. Yamada has come, but Mr. Saeki hasn't come yet."
+5,60,111,Practice,子供は白い靴をはいている/はいています。,こどもはしろいくつをはいている/はいています。,The child is wearing white shoes.
+5,60,111,Practice,教室の窓が閉まっている/閉まっています。,きょうしつのまどがしまっている/しまっています。,The windows of the classroom are closed.
+5,60,111,Practice,兄は結婚している/していますが、弟はまだ結婚していない/していません。,あにはけっこんしている/していますが、おとうとはまだけっこんしていない/していません。,"My older brother is married, but my younger brother isn't yet."
+5,61,111,Pattern,廊下の電気がつけてある/つけてあります。,ろうかのでんきがつけてある/つけてあります。,The lights in the hallway have been turned on.
+5,61,111,Example,壁にポスターが張ってある。,かべにポスターがはってある。,Posters have been put on the wall.
+5,61,112,Example,この部屋は掃除してあります。,このへやはそうじしてあります。,This room has been cleaned.
+5,61,112,Example,このコップは洗ってあります。,このコップはあらってあります。,These cups have been washed.
+5,61,112,Practice,入り口のドアは閉めてある/閉めてあります。,いりぐちのドアはしめてある/しめてあります。,"As for the door of the entrance, it has been closed."
+5,61,112,Practice,黒板に漢字が書いてある/書いてあります。,こくばんにかんじがかいてある/かいてあります。,Kanji are written on the blackboard.
+5,61,112,Practice,このレポートは読んである/読んであります。,このレポートはよんである/よんであります。,"As for this report, it has been read."
+5,62,113,Pattern,明日のピクニックのために飲み物を買っておいた/買っておきました。,あしたのピクニックのためにのみものをかっておいた/かっておきました。,I bought drinks for tomorrow's picnic.
+5,62,113,Example,前もって品物の値段を調べておきます。,まえもってしなもののねだんをしらべておきます。,I'll check the price of the article beforehand.
+5,62,113,Example,レストランのテーブルを予約しておきましたよ。,レストランのテーブルをよやくしておきましたよ。,I reserved a table (for us) at the restaurant.
+5,62,113,Example,彼はアメリカの友達のために日本の切手を集めておいた。,かれはアメリカのともだちのためににほんのきってをあつめておいた。,He collected Japanese stamps for his friend in America.
+5,62,114,Practice,今晩のお客さまのために部屋を掃除しておいた/掃除しておきました。,こんばんのおきゃくさまのためにへやをそうじしておいた/そうじしておきました。,I cleaned the room for tonight's guests.
+5,62,114,Practice,前もってその劇の筋を読んでおいた/読んでおきました。,まえもってそのげきのすじをよんでおいた/よんでおきました。,I read the plot of that play beforehand.
+5,62,114,Practice,昨日この本を５冊注文しておいた/注文しておきました。,きのうこのほんをごさつちゅうもんしておいた/ちゅうもんしておきました。,I ordered five copies of this book yesterday.
+5,63,114,Pattern,私達はもうプロジェクトを仕上げてしまった/仕上げてしまいました。,わたしたちはもうプロジェクトをしあげてしまった/しあげてしまいました。,We have already completed the project.
+5,63,115,Example,彼は１年でその小説を書いてしまった。,かれはいちねんでそのしょうせつをかいてしまった。,He finished writing that novel in one year.
+5,63,115,Example,孝はクッキーをみんな食べてしまいました。,たかしはクッキーをみんなたべてしまいました。,Takashi ate up all the cookies.
+5,63,115,Example,すっかり宿題を忘れてしまった。,すっかりしゅくだいをわすれてしまった。,I have completely forgotten (to do) my homework.
+5,63,116,Practice,ジム（さん）は授業に遅れてしまった/遅れてしまいました。,ジム（さん）はじゅぎょうにおくれてしまった/おくれてしまいました。,Jim was late for class.
+5,63,116,Practice,姉は外国へ行ってしまった/行ってしまいました。,あねはがいこくへいってしまった/いってしまいました。,My older sister has gone abroad.
+5,63,116,Practice,もう部屋を片付けてしまった/片付けてしまいました。,もうへやをかたづけてしまった/かたづけてしまいました。,I've already finished tidying up the room.
+5,64,116,Pattern,初めて刺身を食べてみた/食べてみました。,はじめてさしみをたべてみた/たべてみました。,I ate sashimi for the first time (to see what it was like).
+5,64,116,Example,ジムは東京から大阪まで新幹線に乗ってみた。,ジムはとうきょうからおおさかまでしんかんせんにのってみた。,Jim took the Bullet Train from Tokyo to Osaka (to see what it is like).
+5,64,116,Example,ジュディさんは初めて日本の着物を着てみました。,ジュディさんははじめてにほんのきものをきてみました。,Judy tried on a Japanese kimono for the first time.
+5,64,117,Example,この事は先生と相談してみます。,このことはせんせいとそうだんしてみます。,"As for this matter, I will consult with my teacher (to see what he/she thinks about it)."
+5,64,117,Practice,ブラウンさんは日本の家に住んでみた/住んでみました。,ブラウンさんはにほんのいえにすんでみた/すんでみました。,Mr. Brown lived in a Japanese house (to see what it was like).
+5,64,117,Practice,この新製品を使ってみる/使ってみます。,このしんせいひんをつかってみる/つかってみます。,I'll use this new product (to see what it is like).
+5,64,117,Practice,新しいパン屋で初めてパンを買ってみた/買ってみました。,あたらしいパンやではじめてパンをかってみた/かってみました。,"I bought some bread at the new bakery, for the first time (to see what it was like)."
+5,65,117,Pattern,犬が走っていく/走っていきます。,いぬがはしっていく/はしっていきます。,The dog is running away.
+5,65,118,Example,彼は急に部屋を出ていった。,かれはきゅうにへやをでていった。,"He left the room suddenly. (VIEWPOINT. The speaker is or was in the room when the person left, thus the direction of his/her leaving is or was away from the speaker.)"
+5,65,118,Example,毎年ジャネットさんはクリスマスに国へ帰っていきます。,まいねんジャネットさんはクリスマスにくにへかえっていきます。,"Every year, Janet returns to her (home) country for Christmas. (VIEWPOINT: The speaker no doubt remains in the country from which Janet leaves, and that country is probably his/her home country.)"
+5,65,118,Example,この町の人口はだんだん増えていく。,このまちのじんこうはだんだんふえていく。,This city's population will gradually increase.
+5,65,119,Practice,この木はだんだん育っていく/育っていきます。,このきはだんだんそだっていく/そだっていきます。,This tree will grow gradually.
+5,65,119,Practice,バスがこのビルの前を通っていった/通っていきました。,バスがこのビルのまえをとおっていった/とおっていきました。,A bus passed by the front of this building.
+5,65,119,Practice,鳥があちらへ飛んでいった/飛んでいきました。,とりがあちらへとんでいった/とんでいきました。,The bird flew away in that direction.
+5,66,119,Pattern,空が晴れてきた/晴れてきました。,そらがはれてきた/はれてきました。,The sky has cleared up.
+5,66,119,Example,小鳥が時々窓から部屋に入ってくる。,ことりがときどきまどからへやにはいってくる。,A little bird sometimes comes into the room through the window.
+5,66,120,Example,課長は最近太ってきました。,かちょうはさいきんふとってきました。,The section chief has started to gain weight recently.
+5,66,120,Example,先月から売り上げが減ってきた。,せんげつからうりあげがへってきた。,Sales have declined since last month.
+5,66,120,Practice,彼女は急にやせてきた/やせてきました。,かのじょはきゅうにやせてきた/やせてきました。,She started to lose weight suddenly.
+5,66,120,Practice,冷たい風が吹いてきた/吹いてきました。,つめたいかぜがふいてきた/ふいてきました。,A cold wind started to blow.
+5,66,120,Practice,私達は今までがんばってきた/がんばってきました。,わたしたちはいままでがんばってきた/がんばってきました。,We have done our best up to now.
+5,67,121,Pattern,彼はコーヒーを飲んで８時前に家を出る/出ます。,かれはコーヒーをのんではちじまえにうちをでる/でます。,He drinks coffee and leaves home before 8 o'clock.
+5,67,121,Example,ケンは新宿でバスを降りて本屋に入った。,ケンはしんじゅくでバスをおりてほんやにはいった。,Ken got off the bus at Shinjuku and entered a bookstore.
+5,67,121,Example,彼女は朝早く起きて、ジョギングをして、朝ご飯を食べる。,かのじょはあさはやくおきて、ジョギングをして、あさごはんをたべる。,"She gets up early in the morning, jogs, and eats breakfast."
+5,67,121,Example,友達と銀座へ行って高級レストランで食事をした。,ともだちとぎんざへいってこうきゅうレストランでしょくじをした。,I went to Ginza with my friend and had a meal at a high-class restaurant.
+5,67,122,Practice,水族館へ行って色々な魚を見た/見ました。,すいぞくかんへいっていろいろなさかなをみた/みました。,I went to the aquarium and saw various fish.
+5,67,122,Practice,窓を閉めて、電気を消して寝た/寝ました。,まどをしめて、でんきをけしてねた/ねました。,"I closed the windows, turned off the lights, and went to bed."
+5,67,122,Practice,本田さんは古い車を売って新しいのを買った/買いました。,ほんださんはふるいくるまをうってあたらしいのをかった/かいました。,Mr. Honda sold his old car and bought a new one.
+5,68,122,Pattern,晩ご飯を食べてから散歩した/散歩しました。,ばんごはんをたべてからさんぽした/さんぽしました。,"After eating dinner, I went for a walk."
+5,68,123,Example,由紀子（さん）は学校が終わってからテニスをします。,ゆきこ（さん）はがっこうがおわってからテニスをします。,Yukiko plays tennis after school finishes.
+5,68,123,Example,彼は車を買ってから免許をとった。,かれはくるまをかってからめんきょをとった。,He got his license after he bought the car.
+5,68,123,Example,ベンは高校を卒業してから空軍に入った。,ベンはこうこうをそつぎょうしてからくうぐんにはいった。,"After graduating from high school, Ben joined the Air Force."
+5,68,123,Practice,ロスさんは日本語を習ってから日本へ行った/行きました。,ロスさんはにほんごをならってからにほんへいった/いきました。,Mr. Ross went to Japan after he had learned Japanese.
+5,68,123,Practice,彼は部屋に入ってから帽子を脱いだ/脱ぎました。,かれはへやにはいってからぼうしをぬいだ/ぬぎました。,He took his hat off after entering the room.
+5,68,123,Practice,ビル（さん）は予習してから漢字を練習した/練習しました。,ビル（さん）はよしゅうしてからかんじをれんしゅうした/れんしゅうしました。,Bill practiced kanji after he did his prep work.
+5,69,124,Pattern,彼はいつも寝る前にシャワーを浴びる/浴びます。,かれはいつもねるまえにシャワーをあびる/あびます。,He always takes a shower before going to bed.
+5,69,124,Example,学生は家へ帰る前に教室の窓を閉めます。,がくせいはうちへかえるまえにきょうしつのまどをしめます。,The students close the classroom windows before going home.
+5,69,124,Example,銀行へ行く前にパン屋に寄った。,ぎんこうへいくまえにパンやによった。,I stopped by a bakery before I went to the bank.
+5,69,124,Example,和夫さんは勉強する前に鉛筆を削ります。,かずおさんはべんきょうするまえにえんぴつをけずります。,Kazuo sharpens his pencils before he studies.
+5,69,125,Practice,泳ぐ前に運動する/運動します。,およぐまえにうんどうする/うんどうします。,I exercise before I swim.
+5,69,125,Practice,弘子（さん）はいつも食べる前に手を洗う/洗います。,ひろこ（さん）はいつもたべるまえにてをあらう/あらいます。,Hiroko always washes her hands before she eats.
+5,69,125,Practice,彼は本を書き終わる前に死んでしまった/死んでしまいました。,かれはほんをかきおわるまえにしんでしまった/しんでしまいました。,He died (regretfully) before he had finished writing the book.
+5,70,125,Pattern,彼女は新聞を読む時（に）めがねをかける/かけます。,かのじょはしんぶんをよむとき（に）めがねをかける/かけます。,She wears glasses when she reads the newspaper.
+5,70,126,Example,寝る時（に）歯を磨きます。,ねるとき（に）はをみがきます。,"Before I go to bed, I brush my teeth."
+5,70,126,Example,少年は公園を歩いている時/歩いていた時（に）財布を見つけた。,しょうねんはこうえんをあるいているとき/あるいていたとき（に）さいふをみつけた。,The boy found a wallet while walking in the park.
+5,70,126,Example,私達はハワイへ行った時（に）船で行きました。,わたしたちはハワイへいったとき（に）ふねでいきました。,"When we went to Hawaii, we went by boat."
+5,70,126,Example,朝起きた時（に）顔を洗います。,あさおきたとき（に）かおをあらいます。,"When/After I get up in the morning, I wash my face."
+5,70,127,Practice,旅行する時（に）ガイドブックを買う/買います。,りょこうするとき（に）ガイドブックをかう/かいます。,"When I travel, I buy a guidebook."
+5,70,127,Practice,彼は人の部屋に入る時（に）ノックしない/ノックしません。,かれはひとのへやにはいるとき（に）ノックしない/ノックしません。,"When he enters the rooms of others, he doesn't knock."
+5,70,127,Practice,空港に着いた時（に）両替する/両替します。,くうこうについたとき（に）りょうがえする/りょうがえします。,"When/After I've arrived at the airport, I'll change money."
+5,70,127,Practice,レポートを読んでいる/読んでいた時（に）間違いを見つけた/見つけました。,レポートをよんでいる/よんでいたとき（に）まちがいをみつけた/みつけました。,"When/While I was reading the report, I found an error."
+5,71,127,Pattern,野田さんが来た時（に）私は手紙を書いていた/書いていました。,のださんがきたとき（に）わたしはてがみをかいていた/かいていました。,"When Ms. Noda came, I was writing a letter."
+5,71,128,Example,私がパリへ行く時（に）和子さんはロンドンへ行きます。,わたしがパリへいくとき（に）かずこさんはロンドンへいきます。,"When I go to Paris, Kazuko will go to London."
+5,71,128,Example,私が風呂に入っている/入っていた時（に）電話が鳴った。,わたしがふろにはいっている/はいっていたとき（に）でんわがなった。,"When I was taking a bath, the telephone rang."
+5,71,128,Example,フランクがビルを出た時（に）車の事故が起こった。,フランクがビルをでたとき（に）くるまのじこがおこった。,"When Frank left of the building, a car accident occurred."
+5,71,129,Practice,私が電話した時（に）木田さんは家にいなかった/いませんでした。,わたしがでんわしたとき（に）きださんはうちにいなかった/いませんでした。,"When I telephoned, Ms. Kida wasn't at home."
+5,71,129,Practice,植木屋さんが木の枝を切っている/切っていた時（に）隣の人が来た/来ました。,うえきやさんがきのえだをきっている/きっていたとき（に）となりのひとがきた/きました。,"When/While/As the gardener was cutting the branches of the tree, the next-door neighbor came/showed up."
+5,71,129,Practice,彼がたばこを吸う時（に）私はいつも窓を開ける/開けます。,かれがたばこをすうとき（に）わたしはいつもまどをあける/あけます。,"When he smokes, I always open the window."
+5,72,129,Pattern,私が友達と話している間子供は外で遊んでいた/遊んでいました。,わたしがともだちとはなしているあいだこどもはそとであそんでいた/あそんでいました。,"While I was talking with my friend, my child was playing outside."
+5,72,129,Example,健二（さん）はアメリカにいる間、柔道を教えていた。,けんじ（さん）はアメリカにいるあいだ、じゅうどうをおしえていた。,Kenji was teaching judo (all the) while he was in America.
+5,72,130,Example,美佐子（さん）は子供が寝ている間に本を読みます。,みさこ（さん）はこどもがねているあいだにほんをよみます。,Misako reads books while her children are sleeping.
+5,72,130,Example,ブラウンさんは京都に住んでいる間に日本の生け花を習った。,ブラウンさんはきょうとにすんでいるあいだににほんのいけばなをならった。,Ms. Brown learned Japanese flower arrangement while she lived in Kyoto.
+5,72,130,Practice,私が料理している間、妹は部屋を掃除していた/掃除していました。,わたしがりょうりしているあいだ、いもうとはへやをそうじしていた/そうじしていました。,"While I was cooking, my younger sister was cleaning the room."
+5,72,130,Practice,息子が旅行している間に犬が死んだ/死にました。,むすこがりょこうしているあいだにいぬがしんだ/しにました。,"While my son was traveling, his dog died."
+5,72,130,Practice,私が買い物している間に子供がいなくなった/いなくなりました。,わたしがかいものしているあいだにこどもがいなくなった/いなくなりました。,"While I was shopping, my child disappeared."
+5,73,131,Pattern,彼が来るまでロビーで雑誌を読んでいた/読んでいました。,かれがくるまでロビーでざっしをよんでいた/よんでいました。,I was reading a magazine in the lobby until he came.
+5,73,131,Example,ホワイトさんは家を買うまでアパートに住んでいた。,ホワイトさんはうちをかうまでアパートにすんでいた。,Mr. White had lived in an apartment until he bought a house.
+5,73,131,Example,雨が止むまでここで待ちます。,あめがやむまでここでまちます。,I'll wait here until the rain stops.
+5,73,131,Example,借金を払ってしまうまで何も買いません。,しゃっきんをはらってしまうまでなにもかいません。,I won't buy anything until I completely pay off my debts.
+5,73,132,Practice,車が直るまで地下鉄で学校に通った/通いました。,くるまがなおるまでちかてつでがっこうにかよった/かよいました。,I commuted to school by subway until my car got fixed.
+5,73,132,Practice,彼は電車が終点に着くまで寝ていた/寝ていました。,かれはでんしゃがしゅうてんにつくまでねていた/ねていました。,He was sleeping until the train arrived at the terminal station.
+5,73,132,Practice,（私は）期末試験が終わるまでテニスをしない/しません。,（わたしは）きまつしけんがおわるまでテニスをしない/しません。,I won't play tennis until final exams are over.
+5,74,132,Pattern,プロジェクトが完成するまでに２か月かかる/かかります。,プロジェクトがかんせいするまでににかげつかかる/かかります。,It will take two months before the project is completed.
+5,74,132,Example,学校が始まるまでに友達に会いに大阪へ行きます。,がっこうがはじまるまでにともだちにあいにおおさかへいきます。,I'll go to Osaka to see my friend before school starts.
+5,74,133,Example,飛行機がシカゴに着くまでに小説を読んでしまった。,ひこうきがシカゴにつくまでにしょうせつをよんでしまった。,"By the time the plane arrived in Chicago, I had read a novel."
+5,74,133,Example,課長が旅行から戻るまでにこの書類を調べておきます。,かちょうがりょこうからもどるまでにこのしょるいをしらべておきます。,I'll check these papers (in advance) before the section chief returns from his trip.
+5,74,133,Practice,夏休みが終わるまでにもう一度釣りに行く/行きます。,なつやすみがおわるまでにもういちどつりにいく/いきます。,I'll go fishing once more before the summer vacation ends.
+5,74,133,Practice,彼は結婚するまでに家を買った/買いました。,かれはけっこんするまでにうちをかった/かいました。,He had bought a house by the time he got married.
+5,74,133,Practice,お客さんが来るまでに部屋を掃除しておいた/掃除しておきました。,おきゃくさんがくるまでにへやをそうじしておいた/そうじしておきました。,I had cleaned the room (in advance) before my guests came.
+5,75,134,Pattern,私達は湖でモーターボートに乗ったり、魚を釣ったりする/します。,わたしたちはみずうみでモーターボートにのったり、さかなをつったりする/します。,"We ride motorboats on the lake and catch fish in it. (IMPLYING: And we do other lake activities, too.)"
+5,75,134,Example,彼らはゆうべバーで飲んだり、食べたり、歌ったりした。,かれらはゆうべバーでのんだり、たべたり、うたったりした。,"Last night at the bar, they did things like drink, eat, and sing."
+5,75,134,Example,和田さんは週末に車を洗ったり、芝生を刈ったりします。,わださんはしゅうまつにくるまをあらったり、しばふをかったりします。,"On the weekends, Mr. Wada does things like wash his car and mow the lawn."
+5,75,134,Example,リサは東京で日本映画を見たり、美術館へ行ったりした。,リサはとうきょうでにほんえいがをみたり、びじゅつかんへいったりした。,"In Tokyo, Lisa watched Japanese movies and went to art museums (and did other things there, too)."
+5,75,135,Practice,明日すしを作ったり、クッキーを焼いたりする/します。,あしたすしをつくったり、クッキーをやいたりする/します。,Tomorrow I'll do things like make sushi and bake cookies.
+5,75,135,Practice,トム（さん）は漢字を練習したり、言葉を覚えたりした/しました。,トム（さん）はかんじをれんしゅうしたり、ことばをおぼえたりした/しました。,Tom did things like practice kanji and memorize words.
+5,75,135,Practice,私達は海で泳いだり、海岸で貝を拾ったりした/しました。,わたしたちはうみでおよいだり、かいがんでかいをひろったりした/しました。,We did things like swim in the ocean and gather shells at the beach.
+5,76,135,Pattern,彼は英語を教えるばかりでなく小説も書く/書きます。,かれはえいごをおしえるばかりでなくしょうせつもかく/かきます。,He not only teaches English but also writes novels.
+5,76,136,Example,彼女はピアノを弾くばかりでなく作曲もします。,かのじょはピアノをひくばかりでなくさっきょくもします。,She not only plays the piano but also composes.
+5,76,136,Example,あの人はよく食べるばかりでなくよく飲む。,あのひとはよくたべるばかりでなくよくのむ。,He not only eats a lot but also drinks a lot.
+5,76,136,Example,今日は買い物をしたばかりでなく映画も見ました。,きょうはかいものをしたばかりでなくえいがもみました。,"Today, not only did I do some shopping, I also saw a movie."
+5,76,137,Practice,サム（さん）はよく勉強するばかりでなくよく遊ぶ/遊びます。,サム（さん）はよくべんきょうするばかりでなくよくあそぶ/あそびます。,Sam not only studies hard but also plays a lot.
+5,76,137,Practice,毎日復習するばかりでなく予習もする/します。,まいにちふくしゅうするばかりでなくよしゅうもする/します。,"I not only review (for class) every day, but also do prep work."
+5,76,137,Practice,彼は掃除機を直したばかりでなく台所の壁も塗った/塗りました。,かれはそうじきをなおしたばかりでなくだいどころのかべもぬった/ぬりました。,"Not only did he fix the vacuum cleaner, he also painted the kitchen walls."
+6,77,138,Pattern,図書館へ本を返しに行った/行きました。,としょかんへほんをかえしにいった/いきました。,I went to the library to return some books.
+6,77,138,Example,ジャクソンさんはコーヒーを飲みに喫茶店に入った。OR ジャクソンさんは喫茶店にコーヒーを飲みに入った。,ジャクソンさんはコーヒーをのみにきっさてんにはいった。OR ジャクソンさんはきっさてんにコーヒーをのみにはいった。,Mr. Jackson entered a coffee shop to drink coffee.
+6,77,138,Example,サンドラさんは日本語を勉強しに日本へ来ました。OR サンドラさんは日本へ日本語を勉強しに来ました。,サンドラさんはにほんごをべんきょうしににほんへきました。OR サンドラさんはにほんへにほんごをべんきょうしにきました。,Sandra came to Japan to study Japanese.
+6,77,139,Example,私達は日曜日にバスで観光に行きます。,わたしたちはにちようびにバスでかんこうにいきます。,We'll go sightseeing by bus on Sunday.
+6,77,139,Practice,電車の切符を買いに駅へ行った/行きました。OR 駅へ電車の切符を買いに行った/行きました。,でんしゃのきっぷをかいにえきへいった/いきました。OR えきへでんしゃのきっぷをかいにいった/いきました。,I went to the station to buy a train ticket.
+6,77,139,Practice,学生が質問しに来た/来ました。,がくせいがしつもんしにきた/きました。,A student came to ask questions.
+6,77,139,Practice,明日友達と展覧会に行く/行きます。OR 明日展覧会に友達と行く/行きます。,あしたともだちとてんらんかいにいく/いきます。OR あしたてんらんかいにともだちといく/いきます。,I'll go to the exhibition with my friend tomorrow.
+6,78,140,Pattern,森田さんは会社に行くのに地下鉄を使っている/使っています。,もりたさんはかいしゃにいくのにちかてつをつかっている/つかっています。,Mr. Morita is using the subway to get to the company.
+6,78,140,Example,日本語で作文を書くのに辞書が要ります。,にほんごでさくぶんをかくのにじしょがいります。,I need a dictionary to write compositions in Japanese.
+6,78,140,Example,ここから空港へ行くのに１時間かかる。,ここからくうこうへいくのにいちじかんかかる。,It takes me one hour to get to the airport from here.
+6,78,140,Example,ここは住むのにいい所です。,ここはすむのにいいところです。,This is a good place to live.
+6,78,141,Practice,日本人は食べるのにはしを使う/使います。,にほんじんはたべるのにはしをつかう/つかいます。,Japanese people use chopsticks to eat.
+6,78,141,Practice,レポートの間違いを直すのに３０分かかった/かかりました。,レポートのまちがいをなおすのにさんじゅっぷんかかった/かかりました。,It took me thirty minutes to correct the errors in the report.
+6,78,141,Practice,デパートは買い物するのに便利な所だ/です。,デパートはかいものするのにべんりなところだ/です。,A department store is a convenient place to shop.
+6,79,141,Pattern,彼は旅行するためにアルバイトしている/アルバイトしています。,かれはりょこうするためにアルバイトしている/アルバイトしています。,He is working part-time in order to travel.
+6,79,142,Example,結婚するために/結婚するのにお金をためています。,けっこんするために/けっこんするのにおかねをためています。,I am saving money in order to get married.
+6,79,142,Example,スコット（さん）は日本の新聞を訳すために/のに辞書を買った。,スコット（さん）はにほんのしんぶんをやくすために/のにじしょをかった。,Scott bought a dictionary in order to translate Japanese newspapers.
+6,79,142,Example,ジュンは試験に合格するためによく勉強した。,ジュンはしけんにごうかくするためによくべんきょうした。,June studied hard in order to pass the exam.
+6,79,143,Practice,生きるために食べる/食べます。,いきるためにたべる/たべます。,We eat in order to live.
+6,79,143,Practice,彼は家族を養うために/養うのによく働いています/働いている。,かれはかぞくをやしなうために/やしなうのによくはたらいています/はたらいている。,He is working hard to support his family.
+6,79,143,Practice,正夫（さん）は新しいコンピューターを買うために/買うのにアルバイトした/アルバイトしました。,まさお（さん）はあたらしいコンピューターをかうために/かうのにアルバイトした/アルバイトしました。,Masao worked part-time in order to buy a new computer.
+6,80,143,Pattern,雪で列車が止まった/止まりました。,ゆきでれっしゃがとまった/とまりました。,The train stopped due to the snow.
+6,80,143,Example,ビルは病気で学校を休んだ。,ビルはびょうきでがっこうをやすんだ。,Bill was absent from school due to illness.
+6,80,143,Example,強い風で木がたくさん倒れました。,つよいかぜできがたくさんたおれました。,Many trees fell due to the strong wind.
+6,80,144,Example,三島さんは不注意で車の事故を起こした。,みしまさんはふちゅういでくるまのじこをおこした。,Mr. Mishima caused a car accident due to carelessness.
+6,80,144,Practice,彼女は暑さで倒れた/倒れました。,かのじょはあつさでたおれた/たおれました。,She collapsed due to the heat.
+6,80,144,Practice,地震で大勢の人が死んだ/死にました。,じしんでおおぜいのひとがしんだ/しにました。,Many people died due to the earthquake.
+6,80,144,Practice,木原さんは病気で入院した/入院しました。,きはらさんはびょうきでにゅういんした/にゅういんしました。,Mr. Kihara was hospitalized due to illness.
+6,81,144,Pattern,熱が下がるように薬を飲む/飲みます。,ねつがさがるようにくすりをのむ/のみます。,I'll take medicine so that my fever goes down.
+6,81,145,Example,電車に間に合うように駅へタクシーで行きました。,でんしゃにまにあうようにえきへタクシーでいきました。,I went to the station by taxi so that I would be there in time for the train.
+6,81,145,Example,目的を達成するようにがんばっています。,もくてきをたっせいするようにがんばっています。,We are doing our best to achieve our goal.
+6,81,145,Example,マイクは学校に遅れないように毎朝早く起きる。,マイクはがっこうにおくれないようにまいあさはやくおきる。,Mike gets up early every morning so as not to be late for school.
+6,81,145,Example,忘れないようにメモをとった。,わすれないようにメモをとった。,I made a note so that I wouldn't forget.
+6,81,146,Practice,風邪を引かないようにコートを着た/着ました。,かぜをひかないようにコートをきた/きました。,I wore a coat so that I wouldn't catch a cold.
+6,81,146,Practice,ジム（さん）は試験に合格するようにがんばった/がんばりました。,ジム（さん）はしけんにごうかくするようにがんばった/がんばりました。,Jim did hist best so that he would pass the exam.
+6,81,146,Practice,ダン（さん）は明がわかるようにゆっくり英語で話した/話しました。,ダン（さん）はあきらがわかるようにゆっくりえいごではなした/はなしました。,Dan spoke slowly in English so that Akira would understand.
+6,82,146,Pattern,彼が釣りに行くから、私も行く/行きます。,かれがつりにいくから、わたしもいく/いきます。,"He's going fishing, so I'll go, too."
+6,82,146,Pattern,食べすぎたから/ので眠くなった/眠くなりました。,たべすぎたから/のでねむくなった/ねむくなりました。,I'm sleepy because I ate too much.
+6,82,147,Example,春子（さん）がレセプションに出席しないから、私も（出席）しない。,はるこ（さん）がレセプションにしゅっせきしないから、わたしも（しゅっせき）しない。,"Haruko won't attend the reception, so I won't, either."
+6,82,147,Example,ノラ（さん）はよく勉強したから/ので、成績が上がった。,ノラ（さん）はよくべんきょうしたから/ので、せいせきがあがった。,Nora's grades went up because she studied hard.
+6,82,147,Example,途中で事故がありましたので会議に遅れました。,とちゅうでじこがありましたのでかいぎにおくれました。,"There was an accident along the way, so I was late for the meeting."
+6,82,148,Practice,姉がハンドバッグを買うから私も買う/買います。,あねがハンドバッグをかうからわたしもかう/かいます。,"My older sister is going to buy a purse, so I'll buy one, too."
+6,82,148,Practice,京都で時間があったから/あったので、岡野先生を訪ねた/訪ねました。,きょうとでじかんがあったから/あったので、おかのせんせいをたずねた/たずねました。,"Because I had time in Kyoto, I visited Professor Okano."
+6,82,148,Practice,ジム（さん）は風邪を引いたから/引いたので学校を休んだ/休みました。,ジム（さん）はかぜをひいたから/ひいたのでがっこうをやすんだ/やすみました。,Jim caught a cold; that's why he was absent from school.
+6,83,148,Pattern,水が冷たいから/ので泳がない/泳ぎません。,みずがつめたいから/のでおよがない/およぎません。,"The water is cold, so I won't swim (in it)."
+6,83,148,Pattern,花がきれいだったから/ので写真を撮った/撮りました。,はながきれいだったから/のでしゃしんをとった/とりました。,"The flowers were pretty, so I took a picture of them."
+6,83,148,Example,その日は忙しいから行きません。,そのひはいそがしいからいきません。,"I am busy that day, so I will not go."
+6,83,149,Example,この公園は静かだから/静かなのでよく本を読みに来る。,このこうえんはしずかだから/しずかなのでよくほんをよみにくる。,"Because this park is quiet, I often come here to read books."
+6,83,149,Example,この人形は安い/安かったから/ので買いました。,このにんぎょうはやすい/やすかったから/のでかいました。,"As for this doll, I bought it because it was inexpensive."
+6,83,149,Practice,天気が悪いからテニスをしない/しません。,てんきがわるいからテニスをしない/しません。,"The weather is bad, so I won't play tennis."
+6,83,149,Practice,あの画家は有名だから/有名なので彼の絵は高い/高いです。,あのがかはゆうめいだから/ゆうめいなのでかれのえはたかい/たかいです。,"That painter is famous, so his paintings are expensive."
+6,83,149,Practice,暑い/暑かったから/ので窓を開けたまま寝た/寝ました。,あつい/あつかったから/のでまどをあけたままねた/ねました。,"It was hot, so I slept with the windows open."
+6,84,150,Pattern,どうして/なぜパーティーに行かないのですか。明日試験があるのです。,どうして/なぜパーティーにいかないのですか。あしたしけんがあるのです。,Why won't you go to the party? I have an exam tomorrow.
+6,84,150,Example,なぜ授業に遅れたのですか。目覚まし時計が鳴らなかったのです。,なぜじゅぎょうにおくれたのですか。めざましどけいがならなかったのです。,Why were you late for class? My alarm clock didn't go off.
+6,84,150,Example,何を読んでいるんですか。探偵小説を読んでいるんです。とてもおもしろいんですよ。,なにをよんでいるんですか。たんていしょうせつをよんでいるんです。とてもおもしろいんですよ。,What are you reading? I'm reading a detective novel. It's very interesting.
+6,84,151,Example,どうしてゆうべ来なかったんだ？息子が急に病気になったんだ。,どうしてゆうべこなかったんだ？むすこがきゅうにびょうきになったんだ。,Why didn't you come last night? My son suddenly got ill.
+6,84,151,Example,安子さん、どうして食べないの？おいしくないの。,やすこさん、どうしてたべないの？おいしくないの。,"Yasuko, why don't you eat? (The food) doesn't taste good."
+6,84,152,Practice,なぜ/どうしてあの女の子は泣いているのですか。寂しいのです。,なぜ/どうしてあのおんなのこはないているのですか。さびしいのです。,Why is that girl crying? She's lonely.
+6,84,152,Practice,どうして病気になったんだ？飲みすぎたんだ。,どうしてびょうきになったんだ？のみすぎたんだ。,(man speaking) Why did you become ill? (man replying) I drank too much.
+6,84,152,Practice,和子さん、だれを待っているの？彼を待っているの。,かずこさん、だれをまっているの？かれをまっているの。,"(woman speaking) Kazuko, who are you waiting for? (woman replying) I'm waiting for my boyfriend."
+7,85,153,Pattern,もっと練習しなさい。,もっとれんしゅうしなさい。,Practice some more.
+7,85,153,Example,寒いからこれを着なさい。,さむいからこれをきなさい。,"Wear this, since it is cold."
+7,85,153,Example,寝る前に歯を磨きなさい。,ねるまえにはをみがきなさい。,Brush your teeth before you go to bed.
+7,85,153,Example,もう一度この課を復習しなさい。,もういちどこのかをふくしゅうしなさい。,Review this lesson once more.
+7,85,154,Practice,できるだけ日本語で話しなさい。,できるだけにほんごではなしなさい。,Speak in Japanese as much as possible.
+7,85,154,Practice,風が強いから気をつけなさい。,かぜがつよいからきをつけなさい。,Be careful; the wind is strong.
+7,85,154,Practice,ベルが鳴るまで教室で勉強しなさい。,ベルがなるまできょうしつでべんきょうしなさい。,Study in the classroom until the bell rings.
+7,86,154,Pattern,どうぞこちらでお待ちください。,どうぞこちらでおまちください。,Please wait here.
+7,86,155,Example,どうぞお入りください。,どうぞおはいりください。,Please come in.
+7,86,155,Example,どうぞいい週末をお過ごしください。,どうぞいいしゅうまつをおすごしください。,Have a nice weekend.
+7,86,155,Example,どうぞもう一度ご説明ください。,どうぞもういちどごせつめいください。,Please explain once more.
+7,86,156,Practice,どうぞお座りください。,どうぞおすわりください。,Please sit down.
+7,86,156,Practice,（どうぞ）このデータをお調べください。,（どうぞ）このデータをおしらべください。,Please check this data.
+7,86,156,Practice,どうぞご質問ください。,どうぞごしつもんください。,Please ask questions.
+7,87,156,Pattern,ドアを閉めてください。,ドアをしめてください。,Please close the door.
+7,87,156,Example,この漢字の意味を教えてください。,このかんじのいみをおしえてください。,Please tell me the meaning of this kanji.
+7,87,156,Example,忙しいから手伝ってください。,いそがしいからてつだってください。,"I'm busy, so please help me."
+7,87,156,Example,３時までにこの小包を出してください。,さんじまでにこのこづつみをだしてください。,Please mail this package by 3 o'clock.
+7,87,157,Practice,時間がないから急いでください。,じかんがないからいそいでください。,"There's no time, so please hurry."
+7,87,157,Practice,このいすを会議室に運んでください。,このいすをかいぎしつにはこんでください。,Please carry this chair to the conference room.
+7,87,157,Practice,明日までにこの仕事を済ませてください。,あしたまでにこのしごとをすませてください。,Please finish this work by tomorrow.
+7,88,157,Pattern,この通りに車を止めないでください。,このとおりにくるまをとめないでください。,Please don't park your car on this street.
+7,88,158,Example,電車の中で携帯電話を使わないでください。,でんしゃのなかでけいたいでんわをつかわないでください。,Please don't use your cell phones on the train.
+7,88,158,Example,寒いから窓を開けないでください。,さむいからまどをあけないでください。,"It's cold, so please don't open the window."
+7,88,158,Example,この書類はまだ捨てないでください。,このしょるいはまだすてないでください。,Please don't throw away these papers yet.
+7,88,158,Practice,約束を忘れないでください。,やくそくをわすれないでください。,Please don't forget your promise.
+7,88,158,Practice,この部屋でたばこを吸わないでください。,このへやでたばこをすわないでください。,Please don't smoke in this room.
+7,88,158,Practice,大声で話さないでください。,おおごえではなさないでください。,Please don't talk loudly.
+7,89,159,Pattern,辞書を貸してくださいませんか。,じしょをかしてくださいませんか。,Would you please lend me your dictionary?
+7,89,159,Example,その見本を見せてくださいませんか。,そのみほんをみせてくださいませんか。,Would you please show me that sample?
+7,89,159,Example,推薦状を書いてくださいませんか。,すいせんじょうをかいてくださいませんか。,Would you please write a letter of recommendation?
+7,89,159,Example,ピクニックの場所を変えてくださいませんか。,ピクニックのばしょをかえてくださいませんか。,Would you please change the place for the picnic?
+7,89,160,Practice,卒業式に出席してくださいませんか。,そつぎょうしきにしゅっせきしてくださいませんか。,Would you please attend the graduation ceremony?
+7,89,160,Practice,注文を取り消してくださいませんか。,ちゅうもんをとりけしてくださいませんか。,Would you please cancel the order?
+7,89,160,Practice,明日３時までに連絡してくださいませんか。,あしたさんじまでにれんらくしてくださいませんか。,Would you please contact me by 3 o'clock tomorrow?
+7,90,160,Pattern,ここに雑誌を置かないでくださいませんか。,ここにざっしをおかないでくださいませんか。,Would you please not leave magazines here?
+7,90,160,Example,この建物の中で写真を撮らないでくださいませんか。,このたてもののなかでしゃしんをとらないでくださいませんか。,Would you please not take pictures in this building?
+7,90,161,Example,黒板の漢字を消さないでくださいませんか。,こくばんのかんじをけさないでくださいませんか。,Would you please not erase the kanji on the blackboard?
+7,90,161,Example,この事は、まだ発表しないでくださいませんか。,このことは、まだはっぴょうしないでくださいませんか。,"As for this matter, would you please not announce it yet?"
+7,90,161,Practice,この机を動かさないでくださいませんか。,このつくえをうごかさないでくださいませんか。,Would you please not move this desk?
+7,90,161,Practice,この事は、今決めないでくださいませんか。,このことは、いまきめないでくださいませんか。,"As for this issue, would you please not decide on it now?"
+7,90,161,Practice,今晩の宴会に遅れないでくださいませんか。,こんばんのえんかいにおくれないでくださいませんか。,Would you please not be late for tonight's banquet?
+7,91,162,Pattern,竹田さんに来る/来ないように言ってください。,たけださんにくる/こないようにいってください。,Please tell Ms. Takeda to come/not to come.
+7,91,162,Example,ミラーさんにこの記事を英語に訳すように頼んでください。,ミラーさんにこのきじをえいごにやくすようにたのんでください。,Please ask Mr. Miller to translate this article into English.
+7,91,162,Example,子供達に遅くまで起きていないように言ってください。,こどもたちにおそくまでおきていないようにいってください。,Please tell the children not to stay up late.
+7,91,162,Example,小島さんにマラソンに参加するように勧めてくださいませんか。,こじまさんにマラソンにさんかするようにすすめてくださいませんか。,Would you please advise Mr. Kojima to participate in the marathon?
+7,91,163,Practice,学生にレポートを提出するように言ってください。,がくせいにレポートをていしゅつするようにいってください。,Please tell the students to submit their reports.
+7,91,163,Practice,生徒達に廊下を走らないように言ってください。,せいとたちにろうかをはしらないようにいってください。,Please tell the students not to run in the hallway.
+7,91,163,Practice,林さんにこのコンピューターを使わないように頼んでくださいませんか。,はやしさんにこのコンピューターをつかわないようにたのんでくださいませんか。,Would you please ask Ms. Hayashi not to use this computer?
+7,92,163,Pattern,パレードを見に行こう/行きましょう。,パレードをみにいこう/いきましょう。,Let's go to see the parade.
+7,92,164,Example,ここでしばらく休みましょう。,ここでしばらくやすみましょう。,Let's rest here for a while.
+7,92,164,Example,バーで村田さんの昇進を祝おう。,バーでむらたさんのしょうしんをいわおう。,Let's celebrate Mr. Murata's promotion at the bar.
+7,92,165,Example,試験に落第しないようによく勉強しましょう。,しけんにらくだいしないようによくべんきょうしましょう。,Let's study hard so that we won't fail the exam.
+7,92,165,Practice,今晩外食しよう/外食しましょう。,こんばんがいしょくしよう/がいしょくしましょう。,Let's dine out tonight.
+7,92,165,Practice,会議が終わるまでここで待とう/待ちましょう。,かいぎがおわるまでここでまとう/まちましょう。,Let's wait here until the meeting is over.
+7,92,165,Practice,お客さまが来るから、お菓子を買っておこう/買っておきましょう。,おきゃくさまがくるから、おかしをかっておこう/かっておきましょう。,"Let's buy sweets (in advance), since guests are coming."
+7,93,165,Pattern,新しい車は買わないでおこう/買わないでおきましょう。,あたらしいくるまはかわないでおこう/かわないでおきましょう。,Let's not buy a new car.
+7,93,166,Example,暖かいからヒーターをつけないでおきましょう。,あたたかいからヒーターをつけないでおきましょう。,"It's warm, so let's not turn on the heater."
+7,93,166,Example,今、混んでいるから地下鉄に乗らないでおこう。,いま、こんでいるからちかてつにのらないでおこう。,"Let's not take the subway, because it's crowded now."
+7,93,166,Example,この事は、矢野さんが帰るまで決めないでおきましょう。,このことは、やのさんがかえるまできめないでおきましょう。,"As for this issue, let's not decide on it until Mr. Yano returns."
+7,93,166,Practice,子供達はパーティーに連れて行かないでおこう/連れて行かないでおきましょう。,こどもたちはパーティーにつれていかないでおこう/つれていかないでおきましょう。,Let's not take the children to the party.
+7,93,166,Practice,寒くないからコートは持って行かないでおこう/持って行かないでおきましょう。,さむくないからコートはもっていかないでおこう/もっていかないでおきましょう。,"It's not cold, so let's not take coats with us."
+7,93,167,Practice,雨が止むまで出掛けないでおこう/出掛けないでおきましょう。,あめがやむまででかけないでおこう/でかけないでおきましょう。,Let's not leave until the rain stops.
+7,94,167,Pattern,サンドイッチでも食べようか/食べましょうか。,サンドイッチでもたべようか/たべましょうか。,Shall we have sandwiches (or something)?
+7,94,167,Example,コーヒーでも飲もうか。,コーヒーでものもうか。,Shall we have coffee or something?
+7,94,167,Example,雨が降っているからタクシーで行きましょうか。,あめがふっているからタクシーでいきましょうか。,"Shall we go by taxi, since it's raining?"
+7,94,167,Example,私達の先生をパーティーに招待しませんか。,わたしたちのせんせいをパーティーにしょうたいしませんか。,Wouldn't you (like to) invite our teacher to the party?
+7,94,168,Practice,あのギフトショップでお土産でも買おうか/買いましょうか。,あのギフトショップでおみやげでもかおうか/かいましょうか。,Shall we buy souvenirs (or something) at that gift shop?
+7,94,168,Practice,やかましいからテレビを消そうか/消しましょうか。,やかましいからテレビをけそうか/けしましょうか。,"Shall I turn off the TV, since it's noisy?"
+7,94,168,Practice,私達と一緒にピクニックに行きませんか。,わたしたちといっしょにピクニックにいきませんか。,Wouldn't you like to go to the picnic with us?
+7,95,168,Pattern,先生に聞いたらどう？,せんせいにきいたらどう？,How about asking your teacher?
+7,95,169,Example,寝る前に薬を飲んだらどう？,ねるまえにくすりをのんだらどう？,How about taking medicine before going to bed?
+7,95,169,Example,もう少し待ったら？,もうすこしまったら？,How about waiting a little longer?
+7,95,169,Example,現金で払ったら？,げんきんではらったら？,How about paying in cash?
+7,95,169,Practice,プールで泳いだら（どう）？,プールでおよいだら（どう）？,How about swimming in the pool?
+7,95,169,Practice,大学で英語を教えたら（どう）？,だいがくでえいごをおしえたら（どう）？,How about teaching English at a college?
+7,95,169,Practice,パーティーで日本の歌を歌ったら（どう）？,パーティーでにほんのうたをうたったら（どう）？,How about singing Japanese songs at the party?
+7,96,170,Pattern,もっと野菜を食べたほうがいい/いいです。,もっとやさいをたべたほうがいい/いいです。,You had better eat more vegetables.
+7,96,170,Example,ビルはもっと漢字を勉強したほうがいいね。,ビルはもっとかんじをべんきょうしたほうがいいね。,"Bill had better study kanji harder, don't you think?"
+7,96,170,Example,フライトに遅れないように急いだほうがいいですよ。,フライトにおくれないようにいそいだほうがいいですよ。,You had better hurry so that you won't be late for your flight.
+7,96,170,Example,今パスポートを申請しておいたほうがいい。,いまパスポートをしんせいしておいたほうがいい。,You had better apply for a passport now (in advance).
+7,96,171,Practice,あの劇はおもしろいから、見に行ったほうがいい/いいです。,あのげきはおもしろいから、みにいったほうがいい/いいです。,"That play is interesting, so you had better go to see it."
+7,96,171,Practice,ローンをきちんと払ったほうがいい/いいですよ。,ローンをきちんとはらったほうがいい/いいですよ。,You had better pay off the loan regularly.
+7,96,171,Practice,コンサートの切符を買っておいたほうがいい/いいですね。,コンサートのきっぷをかっておいたほうがいい/いいですね。,We had better buy the concert tickets in advance.
+7,97,171,Pattern,コーヒーを飲みすぎないほうがいい/いいです。,コーヒーをのみすぎないほうがいい/いいです。,You had better not drink too much coffee.
+7,97,171,Example,危険だからあの山には登らないほうがいい。,きけんだからあのやまにはのぼらないほうがいい。,"You had better not climb that mountain, as it is dangerous."
+7,97,172,Example,あんな男とは付き合わないほうがいいよ。,あんなおとことはつきあわないほうがいいよ。,You had better not associate with that kind of man.
+7,97,172,Example,課長の意見に反対しないほうがいいですね。,かちょうのいけんにはんたいしないほうがいいですね。,We had better not oppose the section chief's opinion.
+7,97,172,Practice,まだ帰らないほうがいい/いいですね。,まだかえらないほうがいい/いいですね。,You had better not go home yet.
+7,97,172,Practice,彼の言葉を信じないほうがいい/いいですよ。,かれのことばをしんじないほうがいい/いいですよ。,You had better not believe his words.
+7,97,172,Practice,あんなアパートは借りないほうがいい/いいですね。,あんなアパートはかりないほうがいい/いいですね。,We had better not rent that kind of apartment.
+7,98,173,Pattern,鉛筆で書いてもいい/いいです。,えんぴつでかいてもいい/いいです。,It is all right if you write in pencil.
+7,98,173,Pattern,値段は高くてもいい/いいです。,ねだんはたかくてもいい/いいです。,It is all right if the price is high.
+7,98,173,Example,明日休んでもいいですよ。,あしたやすんでもいいですよ。,It is all right if you take a day off tomorrow.
+7,98,173,Example,この雑誌を借りてもかまいませんか。,このざっしをかりてもかまいませんか。,Do you mind if I borrow this magazine?
+7,98,174,Example,家具は新しくなくてもいいです。,かぐはあたらしくなくてもいいです。,It is all right if the furniture is not new.
+7,98,174,Example,試験を受けなくてもよろしいですか。,しけんをうけなくてもよろしいですか。,Is it all right if I don't take the exam?
+7,98,174,Practice,入ってもいいですか/かまいませんか。,はいってもいいですか/かまいませんか。,May I come in?
+7,98,174,Practice,会議に出席しなくてもいい/いいです。,かいぎにしゅっせきしなくてもいい/いいです。,It is all right if you don't attend the meeting.
+7,98,174,Practice,このいすを使ってもかまいませんか。,このいすをつかってもかまいませんか。,Is it all right if I use this chair?
+7,98,174,Practice,部屋は広くなくてもいい/いいです。,へやはひろくなくてもいい/いいです。,It is all right if the room is not large.
+7,99,175,Pattern,この部屋でテレビを見てはいけない/いけません。,このへやでテレビをみてはいけない/いけません。,You must not watch TV in this room.
+7,99,175,Example,水が汚いから川で泳いではいけません。,みずがきたないからかわでおよいではいけません。,"The water is dirty, so you must not swim in the river."
+7,99,175,Example,テレビをつけたまま寝てはだめですよ。,テレビをつけたままねてはだめですよ。,You must not go to bed leaving the TV on.
+7,99,175,Example,まだこの書類を捨てては困ります。,まだこのしょるいをすててはこまります。,You must not throw away these papers yet.
+7,99,176,Practice,今仕事を辞めてはいけない/いけません。,いましごとをやめてはいけない/いけません。,You must not quit your job now.
+7,99,176,Practice,私の言葉を誤解してはいけない/いけません。,わたしのことばをごかいしてはいけない/いけません。,You must not misunderstand my words.
+7,99,176,Practice,道の右側を運転してはいけない/いけません。,みちのみぎがわをうんてんしてはいけない/いけません。,You must not drive on the right side of the street.
+7,100,176,Pattern,毎朝早く起きなければならない/なりません。,まいあさはやくおきなければならない/なりません。,I have to get up early every morning.
+7,100,176,Pattern,オフィスは広くなければならない/なりません。,オフィスはひろくなければならない/なりません。,The office must be spacious.
+7,100,176,Pattern,学校は安全でなければならない/なりません。,がっこうはあんぜんでなければならない/なりません。,Schools must be safe.
+7,100,177,Example,帰りにスーパーに寄らなければなりません。,かえりにスーパーによらなければなりません。,I must stop by a supermarket on the way home.
+7,100,177,Example,果物は新しくなければならない。,くだものはあたらしくなければならない。,Fruit must be fresh.
+7,100,177,Example,ホテルは静かでなければならない。,ホテルはしずかでなければならない。,The hotel must be quiet.
+7,100,178,Practice,店員は親切でなければならない/なりません。,てんいんはしんせつでなければならない/なりません。,Store clerks must be kind.
+7,100,178,Practice,私は旅行を延期しなければならない/なりません。,わたしはりょこうをえんきしなければならない/なりません。,I have to postpone my trip.
+7,100,178,Practice,相撲取りは大きくなければならない/なりません。,すもうとりはおおきくなければならない/なりません。,Sumo wrestlers must be big.
+7,101,178,Pattern,今晩宿題をしなくてもいい/いいです。,こんばんしゅくだいをしなくてもいい/いいです。,I don't have to do homework tonight.
+7,101,178,Pattern,レポートは詳しくなくてもいい/いいです。,レポートはくわしくなくてもいい/いいです。,The report doesn't have to be detailed.
+7,101,178,Pattern,式は豪華でなくてもいい/いいです。,しきはごうかでなくてもいい/いいです。,The ceremony doesn't have to be gorgeous.
+7,101,179,Example,忙しくないから残業しなくてもいいです。,いそがしくないからざんぎょうしなくてもいいです。,"We are not busy, so we don't have to work overtime."
+7,101,179,Example,この仕事は明日までに済ませなくてもいいですよ。,このしごとはあしたまでにすませなくてもいいですよ。,You don't have to finish this work by tomorrow.
+7,101,179,Example,アパートは駅に近くなくてもいい。,アパートはえきにちかくなくてもいい。,The apartment doesn't have to be near the station.
+7,101,179,Example,ホテルは高級でなくてもいいです。,ホテルはこうきゅうでなくてもいいです。,The hotel doesn't have to be high-class.
+7,101,180,Practice,寒くないからヒーターをつけなくてもいい/いいです。,さむくないからヒーターをつけなくてもいい/いいです。,"It's not cold, so we don't have to turn on the heater."
+7,101,180,Practice,作文は長くなくてもいい/いいです。,さくぶんはながくなくてもいい/いいです。,The composition doesn't have to be long.
+7,101,180,Practice,答えは完全でなくてもいい/いいです。,こたえはかんぜんでなくてもいい/いいです。,The answers don't have to be perfect.
+8,102,181,Pattern,ヒルさんは中国語を話すことができる/できます。,ヒルさんはちゅうごくごをはなすことができる/できます。,Mr. Hill can speak Chinese.
+8,102,182,Example,彼女はショパンを弾くことができる/ショパンが弾ける。,かのじょはショパンをひくことができる/ショパンがひける。,She can play Chopin.
+8,102,182,Example,博物館まで車で１０分で行くことができます/行けます。,はくぶつかんまでくるまでじゅっぷんでいくことができます/いけます。,You can get to the museum in ten minutes by car.
+8,102,182,Example,ブラウンさんは日本語で演説することができる/演説ができる。,ブラウンさんはにほんごでえんぜつすることができる/えんぜつができる。,Mr. Brown can make speeches in Japanese.
+8,102,182,Example,８時までに来ることができますか/来られますか。,はちじまでにくることができますか/こられますか。,Can you come by 8 o'clock?
+8,102,183,Practice,アン（さん）は一人で買い物に行くことができる/できます。 OR アン（さん）は一人で買い物に行ける/行けます。,アン（さん）はひとりでかいものにいくことができる/できます。 OR アン（さん）はひとりでかいものにいける/いけます。,Anne is able to go shopping alone.
+8,102,183,Practice,ダン（さん）は日本の歌を歌うことができる/できます。 OR ダン（さん）は日本の歌が歌える/歌えます。,ダン（さん）はにほんのうたをうたうことができる/できます。 OR ダン（さん）はにほんのうたがうたえる/うたえます。,Dan can sing Japanese songs.
+8,102,183,Practice,この犬は速く泳ぐことができますか/泳げますか。,このいぬははやくおよぐことができますか/およげますか。,Can this dog swim fast?
+8,103,183,Pattern,漢字が読めるようになった/なりました。,かんじがよめるようになった/なりました。,I have reached the point where I can read kanji.
+8,103,184,Example,彼はやっと日本語で手紙が書けるようになった。,かれはやっとにほんごでてがみがかけるようになった。,He has finally reached the point where he can write a letter in Japanese.
+8,103,184,Example,隣の赤ちゃんは一人で歩くようになりました。,となりのあかちゃんはひとりであるくようになりました。,Our neighbor's baby has learned to walk by herself.
+8,103,184,Example,リンダはジムとデートしないようになった。,リンダはジムとデートしないようになった。,Linda doesn't date Jim anymore.
+8,103,185,Practice,彼女の気持ちが分かるようになった/なりました。,かのじょのきもちがわかるようになった/なりました。,I have come to understand her feelings.
+8,103,185,Practice,多田さんはたばこを吸わないようになった/なりました。,たださんはたばこをすわないようになった/なりました。,Mr. Tada has reached the point where he no longer smokes.
+8,103,185,Practice,やっとコンピューターが使えるようになった/なりました。,やっとコンピューターがつかえるようになった/なりました。,I have finally reached the point where I can use the computer.
+8,104,185,Pattern,遠くに湖が見える/見えます。,とおくにみずうみがみえる/みえます。,I can see a lake in the distance. (IMPLYING: A lake can be seen in the distance.)
+8,104,185,Pattern,音楽が聞こえる/聞こえます。,おんがくがきこえる/きこえます。,I can hear music. (IMPLYING: Music can be heard.)
+8,104,185,Example,夜空に星が見える。,よぞらにほしがみえる。,One can see stars in the (night) sky. (IMPLYING: Stars are visible.)
+8,104,186,Example,今日は曇っているので富士山が見えません。,きょうはくもっているのでふじさんがみえません。,"It's cloudy today, so we can't see Mt. Fuji."
+8,104,186,Example,森の中で鳥の鳴き声が聞こえた。,もりのなかでとりのなきごえがきこえた。,The cries of birds could be heard in the woods.
+8,104,186,Example,ここはとても静かで何も聞こえない。,ここはとてもしずかでなにもきこえない。,This place is so quiet I can't hear anything.
+8,104,187,Practice,サイレンが聞こえる/聞こえます。,サイレンがきこえる/きこえます。,I can hear sirens.
+8,104,187,Practice,窓から古いお寺が見えた/見えました。,まどからふるいおてらがみえた/みえました。,An old temple could be seen from the window.
+8,104,187,Practice,ここからは何も見えない/見えません。,ここからはなにもみえない/みえません。,I can't see anything from here.
+8,104,187,Practice,一晩中風の音が聞こえた/聞こえました。,ひとばんじゅうかぜのおとがきこえた/きこえました。,The sound of wind could be heard all night long.
+8,105,187,Pattern,ハリスさんはゴルフが上手だ/上手です。,ハリスさんはゴルフがじょうずだ/じょうずです。,Mr. Harris is good at golf.
+8,105,187,Pattern,ジム（さん）は言葉を覚えるのが早い/早いです。,ジム（さん）はことばをおぼえるのがはやい/はやいです。,Jim is good at memorizing words.
+8,105,187,Example,この子は紙で飛行機を作るのが上手だ。,このこはかみでひこうきをつくるのがじょうずだ。,This child is good at making paper airplanes.
+8,105,188,Example,姉は料理が下手でした。,あねはりょうりがへたでした。,My older sister was bad at cooking.
+8,105,188,Example,彼はいつも答案を出すのが早い。,かれはいつもとうあんをだすのがはやい。,He is always quick to hand in his exams.
+8,105,188,Practice,川瀬さんはフランス語が上手だ/上手です。,かわせさんはフランスごがじょうずだ/じょうずです。,Ms. Kawase is good at French.
+8,105,188,Practice,森さんはスピーチ（をするの）が下手だ/下手です。,もりさんはスピーチ（をするの）がへただ/へたです。,Mr. Mori was bad at making speeches.
+8,105,188,Practice,佐田先生は答案を返すのが遅い/遅いです。,さだせんせいはとうあんをかえすのがおそい/おそいです。,Professor Sada is slow at returning exams.
+8,105,188,Practice,課長は間違いを見つけるのが早い/早いです。,かちょうはまちがいをみつけるのがはやい/はやいです。,The section chief is good (=quick) at finding errors.
+8,106,189,Pattern,ケン（さん）はジャズが好きだ/好きです。,ケン（さん）はジャズがすきだ/すきです。,Ken likes jazz.
+8,106,189,Pattern,ビル（さん）は音楽を聞くのが嫌いだ/嫌いです。,ビル（さん）はおんがくをきくのがきらいだ/きらいです。,Bill doesn't like to listen to music.
+8,106,189,Example,クックさんは日本の食べ物が好きです。,クックさんはにほんのたべものがすきです。,Mr. Cook likes Japanese food.
+8,106,189,Example,孝は犬と遊ぶのが大好きだ。,たかしはいぬとあそぶのがだいすきだ。,Takashi loves to play with his dog.
+8,106,189,Example,弟は芝生を刈るのが大嫌いです。,おとうとはしばふをかるのがだいきらいです。,My younger brother hates to mow the lawn.
+8,106,190,Example,祖母は魚は好きですが、肉は嫌いです。,そぼはさかなはすきですが、にくはきらいです。,"My grandmother likes fish, but she doesn't like meat."
+8,106,190,Practice,子供はチョコレートが大好きだ/大好きです。,こどもはチョコレートがだいすきだ/だいすきです。,Children love chocolate.
+8,106,190,Practice,彼女は部屋を飾るのが好きだ/好きです。,かのじょはへやをかざるのがすきだ/すきです。,She likes to decorate rooms.
+8,106,190,Practice,彼はスポーツは好きだ/ですが音楽は嫌いだ/嫌いです。,かれはスポーツはすきだ/ですがおんがくはきらいだ/きらいです。,He likes sports but dislikes music.
+8,107,191,Pattern,私はステレオが欲しい/欲しいです。,わたしはステレオがほしい/ほしいです。,I want a stereo.
+8,107,191,Pattern,息子は自転車を欲しがっている/欲しがっています。,むすこはじてんしゃをほしがっている/ほしがっています。,My son wants a bicycle.
+8,107,191,Example,（私は）大きい家が欲しい。,（わたしは）おおきいうちがほしい。,I want a big house.
+8,107,191,Example,今、何が欲しいですか。,いま、なにがほしいですか。,What do you want now?
+8,107,192,Example,サンドラは真珠のネックレスを欲しがっていた。,サンドラはしんじゅのネックレスをほしがっていた。,Sandra wanted a pearl necklace.
+8,107,192,Practice,（私は）真珠のイヤリングが欲しい/欲しいです。,（わたしは）しんじゅのイヤリングがほしい/ほしいです。,I want pearl earrings.
+8,107,192,Practice,ダン（さん）はスクーターを欲しがっている/欲しがっています。,ダン（さん）はスクーターをほしがっている/ほしがっています。,Dan wants a scooter.
+8,107,192,Practice,緑（さん）は赤いセーターを欲しがっていた/欲しがっていました。,みどり（さん）はあかいセーターをほしがっていた/ほしがっていました。,Midori wanted a red sweater.
+8,108,192,Pattern,私は彼にレポートを書いてほしい/書いてほしいです。,わたしはかれにレポートをかいてほしい/かいてほしいです。,I want him to write the report.
+8,108,193,Example,あなたにこの手紙を読んでほしいです。,あなたにこのてがみをよんでほしいです。,I want you to read this letter.
+8,108,193,Example,あなたはだれにテニスを教えてほしいですか。,あなたはだれにテニスをおしえてほしいですか。,Who do you want to teach you tennis?
+8,108,193,Example,私は両親に私と一緒に行ってほしい。,わたしはりょうしんにわたしといっしょにいってほしい。,I want my parents to go with me.
+8,108,194,Practice,これをみんなに回してほしい/ほしいです。,これをみんなにまわしてほしい/ほしいです。,I want you to pass this around to everybody.
+8,108,194,Practice,あなたはだれにこの本を読んでほしいですか。,あなたはだれにこのほんをよんでほしいですか。,Who do you want to read this book?
+8,108,194,Practice,私は秋子（さん）に（私と）一緒に買い物に行ってほしい/ほしいです。,わたしはあきこ（さん）に（わたしと）いっしょにかいものにいってほしい/ほしいです。,I want Akiko to go shopping with me.
+8,109,194,Pattern,私は今ステーキを/が食べたい/食べたいです。,わたしはいまステーキを/がたべたい/たべたいです。,I want to eat a steak now.
+8,109,194,Pattern,家内はオペラに行きたがっている/行きたがっています。,かないはオペラにいきたがっている/いきたがっています。,My wife wants to go to the opera.
+8,109,194,Example,私はもう一度あの映画を/が見たいです。,わたしはもういちどあのえいがを/がみたいです。,I want to see that movie once more.
+8,109,195,Example,あなたは夏休みに何を/がしたいですか。,あなたはなつやすみになにを/がしたいですか。,What do you want to do during summer vacation?
+8,109,195,Example,木田さんはエベレスト山に登りたがっていた。,きださんはエベレストざんにのぼりたがっていた。,Mr. Kida wanted to climb Mt. Everest.
+8,109,195,Practice,私は白い猫を/が飼いたい/飼いたいです。,わたしはしろいねこを/がかいたい/かいたいです。,I want (to keep) a white cat.
+8,109,195,Practice,あなたは京都で何を/が見たいですか。,あなたはきょうとでなにを/がみたいですか。,What do you want to see in Kyoto?
+8,109,195,Practice,息子は友達と一緒にキャンプに行きたがっている/行きたがっています。,むすこはともだちといっしょにキャンプにいきたがっている/いきたがっています。,My son wants to go camping with his friends.
+8,110,196,Pattern,彼は医者になるつもりだ/です。,かれはいしゃになるつもりだ/です。,He intends to become a doctor.
+8,110,196,Example,私達はクリスマスをハワイで過ごすつもりです。,わたしたちはクリスマスをハワイですごすつもりです。,We intend to spend Christmas in Hawaii.
+8,110,196,Example,今年の夏は旅行しないつもりだ。,ことしのなつはりょこうしないつもりだ。,I don't intend to travel this summer.
+8,110,196,Example,彼女は今結婚するつもりはない。,かのじょはいまけっこんするつもりはない。,She has no intention of getting married now.
+8,110,197,Practice,来月新しいアパートに移るつもりだ/です。,らいげつあたらしいアパートにうつるつもりだ/です。,I intend to move to a new apartment next month.
+8,110,197,Practice,父はまだ引退するつもりはない/ありません。,ちちはまだいんたいするつもりはない/ありません。,My father has no intention of retiring yet.
+8,110,197,Practice,マラソンに参加しないつもりだ/です。,マラソンにさんかしないつもりだ/です。,I don't intend to participate in the marathon.
+8,111,197,Pattern,日本の学生に英語を教えようと思う/思います。,にほんのがくせいにえいごをおしえようとおもう/おもいます。,I think I'll teach English to Japanese students.
+8,111,198,Example,車を売ろうと思う。,くるまをうろうとおもう。,I think I'll sell my car.
+8,111,198,Example,ジュディ（さん）をコンサートに誘おうと思っています。,ジュディ（さん）をコンサートにさそおうとおもっています。,I'm thinking of inviting Judy to the concert.
+8,111,198,Example,午後ひまだから、出掛けようと思っている。,ごごひまだから、でかけようとおもっている。,"Since I am free this afternoon, I'm thinking of going out."
+8,111,198,Practice,大学院に行こうと思う/思います。,だいがくいんにいこうとおもう/おもいます。,I think I'll go to graduate school.
+8,111,198,Practice,航空会社に勤めようと思っている/思っています。,こうくうがいしゃにつとめようとおもっている/おもっています。,I'm thinking of working for an airline company.
+8,111,198,Practice,母に手紙を書こうと思う/思います。,ははにてがみをかこうとおもう/おもいます。,I think I'll write a letter to my mother.
+8,112,199,Pattern,私は日本で働くことにした/しました。,わたしはにほんではたらくことにした/しました。,I decided to work in Japan.
+8,112,199,Example,私は仕事を辞めることにした。,わたしはしごとをやめることにした。,I decided to quit my job.
+8,112,199,Example,毎朝ジョギングをすることにしています。,まいあさジョギングをすることにしています。,I make it a rule to jog every morning.
+8,112,199,Example,クラス会に出席しないことにしました。,クラスかいにしゅっせきしないことにしました。,I decided not to attend the class reunion.
+8,112,200,Practice,私達はバスで（お）花見に行くことにした/しました。,わたしたちはバスで（お）はなみにいくことにした/しました。,We decided to go cherry-blossom viewing by bus.
+8,112,200,Practice,私は週末にゴルフをすることにしている/しています。,わたしはしゅうまつにゴルフをすることにしている/しています。,I make it a rule to play golf on weekends.
+8,112,200,Practice,大阪で泊まらないことにした/しました。,おおさかでとまらないことにした/しました。,I decided not to stay the night in Osaka.
+8,113,200,Pattern,小田さんがプロジェクトを担当することになる/なります。,おださんがプロジェクトをたんとうすることになる/なります。,It will be arranged that Mr. Oda will take charge of the project.
+8,113,201,Example,八木さんが明日出張することになった。,やぎさんがあしたしゅっちょうすることになった。,It has been decided that Mr. Yagi will go on a business trip tomorrow.
+8,113,201,Example,この店は来月から午後７時に閉まることになります。,このみせはらいげつからごごしちじにしまることになります。,The store will close at 7 P.M. starting next month. (IMPLYING: That's the way things will be arranged.)
+8,113,201,Example,２時に社長に会うことになっています。,にじにしゃちょうにあうことになっています。,I am supposed to see the (company) president at 2 o'clock.
+8,113,201,Example,彼はオリンピックに参加しないことになった。,かれはオリンピックにさんかしないことになった。,It has been decided that he won't participate in the Olympics.
+8,113,202,Practice,店員を二人雇うことになる/なります。,てんいんをふたりやとうことになる/なります。,They will hire two clerks. (IMPLYING: That's the way things will be arranged.)
+8,113,202,Practice,主人は神戸に転勤することになった/なりました。,しゅじんはこうべにてんきんすることになった/なりました。,It has been decided that my husband will be transferred to Kobe.
+8,113,202,Practice,水曜日までに本を返すことになっている/います。,すいようびまでにほんをかえすことになっている/います。,I'm supposed to return the books by Wednesday.
+8,113,202,Practice,森先生はそのクラスを教えないことになった/なりました。,もりせんせいはそのクラスをおしえないことになった/なりました。,It has been decided that Professor Mori won't teach that class.
+8,114,202,Pattern,電車の中で宿題をすることがある/あります。,でんしゃのなかでしゅくだいをすることがある/あります。,There are times when I do homework in the train.
+8,114,203,Example,テレビで野球の試合を見ることがある。,テレビでやきゅうのしあいをみることがある。,There are times when I watch baseball games on TV.
+8,114,203,Example,柔道でダンさんが宏さんを負かすことがあります。,じゅうどうでダンさんがひろしさんをまかすことがあります。,There are times when Dan beats Hiroshi in judo.
+8,114,203,Example,ヘレンは予習しないことがある。,ヘレンはよしゅうしないことがある。,There are times when Helen does not prepare (for class).
+8,114,203,Practice,ピザを注文することがある/あります。,ピザをちゅうもんすることがある/あります。,There are times when I order a pizza.
+8,114,203,Practice,サム（さん）は寝過ごすことがある/あります。,サム（さん）はねすごすことがある/あります。,There are times when Sam oversleeps.
+8,114,203,Practice,朝ご飯を食べないことがある/あります。,あさごはんをたべないことがある/あります。,There are times when I don't eat breakfast.
+8,115,204,Pattern,私は中国へ行ったことがある/あります。,わたしはちゅうごくへいったことがある/あります。,I have been to China.
+8,115,204,Example,私は子供に歌を教えたことがある。,わたしはこどもにうたをおしえたことがある。,I have taught songs to children.
+8,115,204,Example,彼女は馬に乗ったことがあります。,かのじょはうまにのったことがあります。,She has ridden a horse before.
+8,115,204,Example,オルソンさんは歌舞伎を見たことが/はない。,オルソンさんはかぶきをみたことが/はない。,Mr. Olson hasn't seen Kabuki before.
+8,115,205,Practice,彼は何度もその映画を見たことがある/あります。,かれはなんどもそのえいがをみたことがある/あります。,He has seen that movie many times.
+8,115,205,Practice,彼女は車を運転したことが/はない/ありません。,かのじょはくるまをうんてんしたことが/はない/ありません。,She hasn't driven a car before.
+8,115,205,Practice,兄は北海道へスキーに行ったことがある/あります。,あにはほっかいどうへスキーにいったことがある/あります。,My older brother has been to Hokkaido to ski.
+9,116,206,Pattern,私は幸子（さん）にプレゼントをあげる/あげます。,わたしはさちこ（さん）にプレゼントをあげる/あげます。,I will give a present to Sachiko.
+9,116,206,Example,私はジャネットに花瓶をあげた。,わたしはジャネットにかびんをあげた。,I gave Janet a vase.
+9,116,207,Example,私は課長に京都のお土産を差し上げます。,わたしはかちょうにきょうとのおみやげをさしあげます。,I'll give the section chief a souvenir from Kyoto.
+9,116,207,Example,祖父は今朝植木に水をやりました。,そふはけさうえきにみずをやりました。,My grandfather gave water to the plants this morning.
+9,116,207,Practice,正子さんは彼にネクタイをあげた/あげました。,まさこさんはかれにネクタイをあげた/あげました。,Masako gave her boyfriend a tie.
+9,116,207,Practice,私は先生に本を差し上げる/差し上げます。,わたしはせんせいにほんをさしあげる/さしあげます。,I'll give my teacher a book.
+9,116,207,Practice,子供は猿にピーナッツをやった/やりました。,こどもはさるにピーナッツをやった/やりました。,The child gave some peanuts to the monkeys.
+9,117,208,Pattern,私は時々リタさんに辞書を貸してあげる/貸してあげます。,わたしはときどきリタさんにじしょをかしてあげる/かしてあげます。,I sometimes lend Rita my dictionary.
+9,117,208,Example,私は友達に日本の切手を送ってあげた。,わたしはともだちににほんのきってをおくってあげた。,I sent my friend some Japanese stamps.
+9,117,208,Example,私は先生を車で家まで送って差し上げました。,わたしはせんせいをくるまでうちまでおくってさしあげました。,I drove my teacher home.
+9,117,209,Example,主人は息子におもちゃの飛行機を買ってやった。,しゅじんはむすこにおもちゃのひこうきをかってやった。,My husband bought our son a toy airplane.
+9,117,209,Practice,私はジョン（さん）に記事をコピーしてあげた/コピーしてあげました。,わたしはジョン（さん）にきじをコピーしてあげた/コピーしてあげました。,I copied the article for John.
+9,117,209,Practice,私は田中先生に写真を撮って差し上げた/差し上げました。,わたしはたなかせんせいにしゃしんをとってさしあげた/さしあげました。,I took pictures for Professor Tanaka.
+9,117,209,Practice,主人は子供を花火大会に連れて行ってやった/連れて行ってやりました。,しゅじんはこどもをはなびたいかいにつれていってやった/つれていってやりました。,My husband took the children to a fireworks display.
+9,118,209,Pattern,私は友達に/から葉書をもらった/もらいました。,わたしはともだちに/からはがきをもらった/もらいました。,I received a postcard from my friend.
+9,118,210,Example,ホワイトさんは阿部さんに/から歌舞伎の切符をもらった。,ホワイトさんはあべさんに/からかぶきのきっぷをもらった。,Mr. White got a Kabuki ticket from Mr. Abe.
+9,118,210,Example,私は和子さんのお母さんに/からなしをいただきました。,わたしはかずこさんのおかあさんに/からなしをいただきました。,I received some pears from Kazuko's mother.
+9,118,210,Example,ロビンは大学から奨学金をもらった。,ロビンはだいがくからしょうがくきんをもらった。,Robin received a scholarship from the university.
+9,118,211,Practice,サラ（さん）はクラスメートに/からラブレターをもらった/もらいました。,サラ（さん）はクラスメートに/からラブレターをもらった/もらいました。,Sarah received a love letter from her classmate.
+9,118,211,Practice,私はマネージャーの奥さんに/からパリのお土産をいただいた/いただきました。,わたしはマネージャーのおくさんに/からパリのおみやげをいただいた/いただきました。,I received a souvenir from Paris from the manager's wife.
+9,118,211,Practice,小川さんは会社からお金をもらった/もらいました。,おがわさんはかいしゃからおかねをもらった/もらいました。,Mr. Ogawa received some money from the company.
+9,119,211,Pattern,原さんにゴルフを教えてもらう/教えてもらいます。,はらさんにゴルフをおしえてもらう/おしえてもらいます。,I'll have Mr. Hara teach me golf.
+9,119,212,Example,戸田さんに手伝いに来てもらいます。,とださんにてつだいにきてもらいます。,I'll have Ms. Toda come to help me.
+9,119,212,Example,ゆり子さんは妹（さん）にセーターを編んでもらった。,ゆりこさんはいもうと（さん）にセーターをあんでもらった。,Yuriko had her younger sister knit a sweater for her.
+9,119,212,Example,先生に日本の地図を貸していただいた。,せんせいににほんのちずをかしていただいた。,I had my teacher lend me a map of Japan.
+9,119,213,Practice,兄に本棚を作ってもらった/作ってもらいました。,あににほんだなをつくってもらった/つくってもらいました。,I had my older brother make a bookshelf for me.
+9,119,213,Practice,彼女は杉さんに車を売ってもらった/売ってもらいました。,かのじょはすぎさんにくるまをうってもらった/うってもらいました。,She had Mr. Sugi sell her car.
+9,119,213,Practice,部長にこの書類にサインしていただく/サインしていただきます。,ぶちょうにこのしょるいにサインしていただく/サインしていただきます。,I'll have the department head sign these papers.
+9,120,213,Pattern,母が（私に）この指輪をくれた/くれました。,ははが（わたしに）このゆびわをくれた/くれました。,My mother gave me this ring.
+9,120,213,Example,良子（さん）はよく（私に）おいしいクッキーをくれる。,よしこ（さん）はよく（わたしに）おいしいクッキーをくれる。,Yoshiko often gives me delicious cookies.
+9,120,214,Example,土井さんが娘にこの人形をくれました。,どいさんがむすめにこのにんぎょうをくれました。,Ms. Doi gave my daughter this doll.
+9,120,214,Example,先生が（私に）辞書をくださいました。,せんせいが（わたしに）じしょをくださいました。,My teacher gave me a dictionary.
+9,120,214,Practice,知らない人が（私に）りんごをくれた/くれました。,しらないひとが（わたしに）りんごをくれた/くれました。,A stranger gave me an apple.
+9,120,214,Practice,山野さんが息子にマフラーをくれた/くれました。,やまのさんがむすこにマフラーをくれた/くれました。,Mr. Yamano gave my son a scarf.
+9,120,214,Practice,ピアノの先生が（私に）コンサートの切符を２枚くださった/くださいました。,ピアノのせんせいが（わたしに）コンサートのきっぷをにまいくださった/くださいました。,My piano teacher gave me two concert tickets.
+9,121,215,Pattern,久保さんが（私達に）すき焼きを作ってくれた/作ってくれました。,くぼさんが（わたしたちに）すきやきをつくってくれた/つくってくれました。,Ms. Kubo cooked sukiyaki for us.
+9,121,215,Example,時々三木さんが（私に）カメラを貸してくれます。,ときどきみきさんが（わたしに）カメラをかしてくれます。,Sometimes Mr. Miki lends me his camera.
+9,121,215,Example,友達が母にコンピューターの使い方を教えてくれた。,ともだちがははにコンピューターのつかいかたをおしえてくれた。,My friend taught my mother how to use a computer.
+9,121,216,Example,宮田先生が（私達に）そのニュースを知らせてくださった。,みやたせんせいが（わたしたちに）そのニュースをしらせてくださった。,Professor Miyata informed us of the news.
+9,121,216,Practice,ガールフレンドが（僕に）すしの食べ方を教えてくれた/教えてくれました。,ガールフレンドが（ぼくに）すしのたべかたをおしえてくれた/おしえてくれました。,My girlfriend taught me how to eat sushi.
+9,121,216,Practice,父が（私に）授業料を送ってくれる/送ってくれます。,ちちが（わたしに）じゅぎょうりょうをおくってくれる/おくってくれます。,My father sends me my tuition.
+9,121,216,Practice,三宅先生が（私達に）映画を見せてくださった/見せてくださいました。,みやけせんせいが（わたしたちに）えいがをみせてくださった/みせてくださいました。,Professor Miyake showed us a movie.
+10,122,217,Pattern,ジョンソンさんは今日来るだろう/でしょう。,ジョンソンさんはきょうくるだろう/でしょう。,Mr. Johnson will probably come today.
+10,122,217,Pattern,あのホテルは高いだろう/でしょう。,あのホテルはたかいだろう/でしょう。,That hotel is probably expensive.
+10,122,217,Pattern,ベン（さん）はダンスが上手だろう/でしょう。,ベン（さん）はダンスがじょうずだろう/でしょう。,Ben is probably good at dancing.
+10,122,217,Example,あの若い男の人は外国人でしょう。,あのわかいおとこのひとはがいこくじんでしょう。,That young man is probably a foreigner.
+10,122,218,Example,試験は難しかっただろう。,しけんはむずかしかっただろう。,The exam was probably difficult.
+10,122,218,Example,彼女はたぶんレセプションに来ないだろう。,かのじょはたぶんレセプションにこないだろう。,She probably won't come to the reception.
+10,122,218,Example,その手続きはきっと簡単でしょう。,そのてつづきはきっとかんたんでしょう。,I'm sure the procedure will be simple.
+10,122,219,Practice,これはヒルさんの車だろう/でしょう。,これはヒルさんのくるまだろう/でしょう。,This is probably Mr. Hill's car.
+10,122,219,Practice,講義は３時までに終わらないだろう/でしょう。,こうぎはさんじまでにおわらないだろう/でしょう。,The lecture probably won't end by 3 o'clock.
+10,122,219,Practice,あの夫婦はたぶん離婚するだろう/でしょう。,あのふうふはたぶんりこんするだろう/でしょう。,They (= the couple) will probably get divorced.
+10,122,219,Practice,クラス会はきっと楽しかっただろう/でしょう。,クラスかいはきっとたのしかっただろう/でしょう。,I'm sure the class reunion was fun.
+10,123,219,Pattern,明日雨が降るかもしれない/かもしれません。,あしたあめがふるかもしれない/かもしれません。,It might rain tomorrow.
+10,123,219,Pattern,映画はつまらないかもしれない/かもしれません。,えいがはつまらないかもしれない/かもしれません。,The movie might be boring.
+10,123,219,Pattern,彼は歌が下手かもしれない/かもしれません。,かれはうたがへたかもしれない/かもしれません。,He might be bad at singing.
+10,123,220,Example,飛行機は少し早く着くかもしれない。,ひこうきはすこしはやくつくかもしれない。,The plane might arrive a little earlier.
+10,123,220,Example,あのミュージカルはおもしろくないかもしれませんよ。,あのミュージカルはおもしろくないかもしれませんよ。,"That musical might not be interesting, you know."
+10,123,220,Example,あれは大使館のハントさんだったかもしれない。,あれはたいしかんのハントさんだったかもしれない。,That might have been Mr. Hunt from the embassy.
+10,123,220,Practice,雨は明日までに止まないかもしれない/かもしれません。,あめはあしたまでにやまないかもしれない/かもしれません。,The rain might not stop by tomorrow.
+10,123,220,Practice,ジム（さん）は中国料理が嫌いだったかもしれない/かもしれません。,ジム（さん）はちゅうごくりょうりがきらいだったかもしれない/かもしれません。,Jim might have disliked Chinese food.
+10,123,220,Practice,ゆり子さんはピクニックに友達を連れてくるかもしれない/かもしれません。,ゆりこさんはピクニックにともだちをつれてくるかもしれない/かもしれません。,Yuriko might bring her friend to the picnic.
+10,124,221,Pattern,彼は成功するに違いない/違いありません。,かれはせいこうするにちがいない/ちがいありません。,There is no doubt that he will succeed.
+10,124,221,Pattern,この時計は高いに違いない/違いありません。,このとけいはたかいにちがいない/ちがいありません。,This watch must be expensive.
+10,124,221,Pattern,式は豪華だったに違いない/違いありません。,しきはごうかだったにちがいない/ちがいありません。,The ceremony must have been gorgeous.
+10,124,221,Example,木原さんは約束を忘れたに違いない。,きはらさんはやくそくをわすれたにちがいない。,Mr. Kihara must have forgotten the appointment.
+10,124,221,Example,この魚は新しくないに違いありません。,このさかなはあたらしくないにちがいありません。,This fish must not be fresh.
+10,124,222,Example,今度の野球のコーチは厳格に違いない。,こんどのやきゅうのコーチはげんかくにちがいない。,Our new baseball coach must be strict.
+10,124,222,Example,あの建物は市の図書館に違いありません。,あのたてものはしのとしょかんにちがいありません。,That building must be the city library.
+10,124,222,Practice,マイク（さん）は討論会に参加するに違いない/違いありません。,マイク（さん）はとうろんかいにさんかするにちがいない/ちがいありません。,There is no doubt that Mike will participate in the debate.
+10,124,222,Practice,湖の水は冷たいに違いない/違いありません。,みずうみのみずはつめたいにちがいない/ちがいありません。,The lake water must be cold.
+10,124,222,Practice,公園の桜の花はきれいだったに違いない/違いありません。,こうえんのさくらのはなはきれいだったにちがいない/ちがいありません。,The cherry blossoms in the park must have been pretty.
+10,124,222,Practice,彼は仕事を探しているに違いない/違いありません。,かれはしごとをさがしているにちがいない/ちがいありません。,He must be looking for a job.
+10,125,223,Pattern,売り上げは増えるはずだ/です。,うりあげはふえるはずだ/です。,"Sales will increase, I'm sure."
+10,125,223,Pattern,会議は短かったはずだ/です。,かいぎはみじかかったはずだ/です。,I'm quite sure that the meeting was short.
+10,125,223,Pattern,あの旅館は静かなはずだ/です。,あのりょかんはしずかなはずだ/です。,That inn is sure to be quiet.
+10,125,223,Example,これから物価が上がるはずだ。,これからぶっかがあがるはずだ。,Prices will (only) go up from now on.
+10,125,223,Example,昨日ビルさんは学校へ来なかったはずです。,きのうビルさんはがっこうへこなかったはずです。,I'm quite sure that Bill didn't come to school yesterday.
+10,125,224,Example,あのレストランはとても高いはずです。,あのレストランはとてもたかいはずです。,"That restaurant is very expensive, I'm sure."
+10,125,224,Example,彼の秘書は有能だったはずだ。,かれのひしょはゆうのうだったはずだ。,I'm quite sure that his secretary was competent.
+10,125,224,Practice,彼は去年会社を辞めたはずだ/です。,かれはきょねんかいしゃをやめたはずだ/です。,I'm quite sure that he quit the company last year.
+10,125,224,Practice,このロープは丈夫なはずだ/です。,このロープはじょうぶなはずだ/です。,"This rope is durable, I'm sure."
+10,125,224,Practice,アン（さん）は展覧会に行かなかったはずだ/です。,アン（さん）はてんらんかいにいかなかったはずだ/です。,I'm quite sure that Anne didn't go to the exhibition.
+10,126,225,Pattern,雪が降りそうだ/そうです。,ゆきがふりそうだ/そうです。,It looks like it will snow.
+10,126,225,Pattern,このケーキはおいしそうだ/そうです。,このケーキはおいしそうだ/そうです。,This cake looks delicious.
+10,126,225,Pattern,あの子は元気そうだ/そうです。,あのこはげんきそうだ/そうです。,That child looks healthy.
+10,126,225,Example,庭の花はもうすぐ咲きそうだ。,にわのはなはもうすぐさきそうだ。,It looks like the flowers in the garden will bloom soon.
+10,126,225,Example,彼女はゆうべのパーティーで寂しそうだった。,かのじょはゆうべのパーティーでさびしそうだった。,She looked lonely at last night's party.
+10,126,226,Example,彼は頭はよさそうだが体は強くなさそうだ。,かれはあたまはよさそうだがからだはつよくなさそうだ。,He looks intelligent but doesn't look physically strong.
+10,126,226,Example,若い夫婦は幸せそうだった。,わかいふうふはしあわせそうだった。,The young (married) couple looked happy.
+10,126,226,Practice,今晩台風が来そうだ/そうです。,こんばんたいふうがきそうだ/そうです。,It looks like a typhoon is coming tonight.
+10,126,226,Practice,課長は一日中忙しそうだった/そうでした。,かちょうはいちにちじゅういそがしそうだった/そうでした。,The section chief looked busy all day long.
+10,126,226,Practice,そのホテルは買い物に不便そうだ/そうです。,そのホテルはかいものにふべんそうだ/そうです。,It sounds as though the hotel is inconvenient for shopping.
+10,127,227,Pattern,ロスさんはアメリカに帰るらしい/らしいです。,ロスさんはアメリカにかえるらしい/らしいです。,It seems that Mr. Ross will return to America.
+10,127,227,Pattern,試合はつまらなかったらしい/らしいです。,しあいはつまらなかったらしい/らしいです。,It seems that the game was boring.
+10,127,227,Pattern,あの歌手は有名らしい/らしいです。,あのかしゅはゆうめいらしい/らしいです。,That singer seems to be famous.
+10,127,227,Example,彼はもう寝たらしい。,かれはもうねたらしい。,He seems to have gone to bed already.
+10,127,227,Example,あの地方は雪が多いらしいです。,あのちほうはゆきがおおいらしいです。,It seems that region has much snow.
+10,127,228,Example,彼女は数学が嫌いだったらしい。,かのじょはすうがくがきらいだったらしい。,It seems that she disliked mathematics.
+10,127,228,Example,ここは幼稚園らしい。,ここはようちえんらしい。,This place seems to be a kindergarten.
+10,127,228,Practice,彼は野鳥が好きだったらしい/らしいです。,かれはやちょうがすきだったらしい/らしいです。,It seems that he liked wild birds.
+10,127,228,Practice,あの大学の入学試験は難しいらしい/らしいです。,あのだいがくのにゅうがくしけんはむずかしいらしい/らしいです。,That college's entrance exams seem to be difficult.
+10,127,228,Practice,野田さんはコンサートに行かないらしい/らしいです。,のださんはコンサートにいかないらしい/らしいです。,It seems that Ms. Noda won't go to the concert.
+10,128,229,Pattern,あそこに家が建つようだ/ようです。,あそこにうちがたつようだ/ようです。,It seems that a house will be built over there.
+10,128,229,Pattern,小野さんの病気は重いようだ/ようです。,おのさんのびょうきはおもいようだ/ようです。,Mr. Ono's illness seems to be serious.
+10,128,229,Pattern,交渉は困難だったようだ/ようです。,こうしょうはこんなんだったようだ/ようです。,It seems that the negotiations were difficult.
+10,128,229,Example,この機械は壊れたようだ。,このきかいはこわれたようだ。,It seems that this machine is broken.
+10,128,229,Example,実験の結果はよかったようです。,じっけんのけっかはよかったようです。,It seems that the result of the experiment was good.
+10,128,230,Example,月曜日は、彼はひまなようだ。,げつようびは、かれはひまなようだ。,He seems to be free (not busy) on Mondays.
+10,128,230,Example,結局彼女は彼と結婚しないみたいだ。,けっきょくかのじょはかれとけっこんしないみたいだ。,It seems that she won't marry him after all.
+10,128,230,Practice,彼の会社は倒産したようだ/ようです。,かれのかいしゃはとうさんしたようだ/ようです。,It seems that his company went bankrupt.
+10,128,230,Practice,この車はエンジンがいいようだ/ようです。,このくるまはエンジンがいいようだ/ようです。,It seems that this car has a good engine.
+10,128,230,Practice,青木さんのお母さんは厳格だったようだ/ようです。,あおきさんのおかあさんはげんかくだったようだ/ようです。,It seems that Ms. Aoki's mother was strict.
+10,129,231,Pattern,銀座で火事があったそうだ/そうです。,ぎんざでかじがあったそうだ/そうです。,I heard that there was a fire in Ginza.
+10,129,231,Example,沖さんは柔道の先生だそうだ。,おきさんはじゅうどうのせんせいだそうだ。,I heard that Mr. Oki is an instructor of judo.
+10,129,231,Example,敏子さんは料理がとても上手だそうです。,としこさんはりょうりがとてもじょうずだそうです。,I heard that Toshiko is very good at cooking.
+10,129,231,Example,あの店のパンはよくないそうだ。,あのみせのパンはよくないそうだ。,I hear that the bread at that store isn't good.
+10,129,231,Example,酒井さんはたばこを止めたそうです。,さかいさんはたばこをやめたそうです。,I heard that Mr. Sakai quit smoking.
+10,129,232,Practice,サラのお父さんは作曲家だったそうだ/そうです。,サラのおとうさんはさっきょくかだったそうだ/そうです。,I heard that Sarah's father was a composer.
+10,129,232,Practice,田村さんはお酒を飲まないそうだ/そうです。,たむらさんはおさけをのまないそうだ/そうです。,I heard that Mr. Tamura doesn't drink any alcohol.
+10,129,232,Practice,来年新しい講堂が建つそうだ/そうです。,らいねんあたらしいこうどうがたつそうだ/そうです。,I heard that a new auditorium is going to be built next year.
+10,130,232,Pattern,ヘレン（さん）は「９時に来ます」と言った/言いました。,ヘレン（さん）は「くじにきます」といった/いいました。,"Helen said, ""I'll come at 9 o'clock."""
+10,130,232,Pattern,サム（さん）は旅行は楽しかったと言った/言いました。,サム（さん）はりょこうはたのしかったといった/いいました。,Sam said that his trip was enjoyable.
+10,130,233,Example,佐伯さんは「社長は今電話をかけています」と言った。,さえきさんは「しゃちょうはいまでんわをかけています」といった。,"Mr. Saeki said, ""The president is making a phone call now."""
+10,130,233,Example,正子（さん）は「オペラはすばらしかったですね」と言いました。,まさこ（さん）は「オペラはすばらしかったですね」といいました。,"Masako said, ""The opera was splendid, wasn't it?"""
+10,130,233,Example,知らない人が私に「今何時ですか」と聞きました。,しらないひとがわたしに「いまなんじですか」とききました。,"A stranger asked me, ""What time is it now?"""
+10,130,233,Example,彼は必ず事業に成功すると思う。,かれはかならずじぎょうにせいこうするとおもう。,I think that he will most certainly succeed in his enterprise.
+10,130,234,Practice,彼は私に「山野先生を知っていますか」と聞いた/聞きました。,かれはわたしに「やまのせんせいをしっていますか」ときいた/ききました。,"He asked me, ""Do you know Professor Yamano?"""
+10,130,234,Practice,和夫は英語を習いたいと言っている/います。,かずおはえいごをならいたいといっている/います。,Kazuo says (= is saying) that he wants to learn English.
+10,130,234,Practice,多田さんはお父さんが来週入院すると言った/言いました。,たださんはおとうさんがらいしゅうにゅういんするといった/いいました。,Ms. Tada said that her father would be hospitalized next week.
+10,130,234,Practice,彼女は親切だったと思う/思います。,かのじょはしんせつだったとおもう/おもいます。,I think that she was kind.
+11,131,235,Pattern,春が来ると、花が咲く/咲きます。,はるがくると、はながさく/さきます。,"When spring comes, the flowers bloom."
+11,131,235,Pattern,壁が白いと、部屋が明るい（です）。,かべがしろいと、へやがあかるい（です）。,"If the walls are white, the room will be bright."
+11,131,235,Pattern,日本語が下手だと、ここでは働けない/働けません。,にほんごがへただと、ここでははたらけない/はたらけません。,"If you are bad at Japanese, you can't work here."
+11,131,236,Example,笛を鳴らすと、鳥が飛んでいった。,ふえをならすと、とりがとんでいった。,"When I blew the whistle, the birds flew away."
+11,131,236,Example,天気が悪いと、試合はありませんね。,てんきがわるいと、しあいはありませんね。,"If the weather is bad, there won't be a game, right?"
+11,131,236,Example,野菜は新鮮だと、よく売れる。,やさいはしんせんだと、よくうれる。,"If the vegetables are fresh, they sell well."
+11,131,237,Practice,あのベルを押すと、ドアが開く/開きます。,あのベルをおすと、ドアがあく/あきます。,"When you push that bell, the door will open."
+11,131,237,Practice,ビールは冷たくないと、おいしくない/おいしくありません。,ビールはつめたくないと、おいしくない/おいしくありません。,"As for the beer, if it isn't cold, it won't taste good (= it won't be delicious)."
+11,131,237,Practice,このレポートがだめだと、書き直さなければならない/なりません。,このレポートがだめだと、かきなおさなければならない/なりません。,"If this report is no good, I will have to rewrite it."
+11,132,237,Pattern,きちんと運動すれば/運動したらやせる/やせます。,きちんとうんどうすれば/うんどうしたらやせる/やせます。,"If you exercise regularly, you'll get thin."
+11,132,237,Pattern,もっと安ければ/安かったら買うつもりだ/です。,もっとやすければ/やすかったらかうつもりだ/です。,"If it is cheaper, I intend to buy it."
+11,132,237,Pattern,波が静かなら（ば）/静かだったら泳ごう/泳ぎましょう。,なみがしずかなら（ば）/しずかだったらおよごう/およぎましょう。,"If the waves are calm, let's (go for a) swim."
+11,132,239,Example,時間があれば/あったら奈良を見物したいです。,じかんがあれば/あったらならをけんぶつしたいです。,"If I have time, I want to see (the sights in) Nara."
+11,132,239,Example,寒ければ/寒かったらヒーターをつけてください。,さむければ/さむかったらヒーターをつけてください。,"If it's cold, please turn on the heater."
+11,132,239,Example,海が危険なら/危険だったら泳がないほうがいいですよ。,うみがきけんなら/きけんだったらおよがないほうがいいですよ。,"If the ocean is dangerous, you had better not swim (in it)."
+11,132,240,Practice,バスで行けば/行ったら（そこまで）１時間ほどで行ける/行けます。,バスでいけば/いったら（そこまで）いちじかんほどでいける/いけます。,"If you go by bus, you can get there in about one hour."
+11,132,240,Practice,必要なら/必要だったらすぐ買ったほうがいいですよ。,ひつようなら/ひつようだったらすぐかったほうがいいですよ。,"If it's necessary, you had better buy it right away."
+11,132,240,Practice,ケーキはおいしければ/おいしかったらよく売れる/売れます。,ケーキはおいしければ/おいしかったらよくうれる/うれます。,"If the cakes are delicious, they will sell well."
+11,133,240,Pattern,株を買う（の）なら、今がいい時期だ/です。,かぶをかう（の）なら、いまがいいじきだ/です。,"If you are going to buy stocks, now is a good time."
+11,133,240,Pattern,そんなにおもしろい（の）なら、見に行こう/行きましょう。,そんなにおもしろい（の）なら、みにいこう/いきましょう。,"If it's that interesting, let's go to see it."
+11,133,240,Pattern,日本食が好きなら、作ってあげる/作ってあげます。,にほんしょくがすきなら、つくってあげる/つくってあげます。,"If you like Japanese food, I'll cook some for you."
+11,133,241,Example,日本へ行く（の）なら、日本語を勉強しなさい。,にほんへいく（の）なら、にほんごをべんきょうしなさい。,"If you are going to Japan, study Japanese."
+11,133,241,Example,ここから近い（の）なら、歩きませんか。,ここからちかい（の）なら、あるきませんか。,"If it's near here, how about walking (the distance)?"
+11,133,241,Example,使わない（の）なら、借りてもいいですか。,つかわない（の）なら、かりてもいいですか。,"If you aren't going to use it, may I borrow it?"
+11,133,241,Example,健康ならどこへでも行けますよ。,けんこうならどこへでもいけますよ。,"If you are healthy, you can go anywhere."
+11,133,242,Practice,このカレンダーが欲しい（の）なら、あげる/あげますよ。,このカレンダーがほしい（の）なら、あげる/あげますよ。,"If you want this calendar, I'll give it to you."
+11,133,242,Practice,この本を読まない（の）なら、返してください。,このほんをよまない（の）なら、かえしてください。,"If you are not going to read this book, please return it to me."
+11,133,242,Practice,一緒に来る（の）なら、すぐ支度しなさい。,いっしょにくる（の）なら、すぐしたくしなさい。,"If you are coming with me, get ready right away."
+11,133,242,Practice,ジム（さん）がひまなら、映画に誘いたい/誘いたいです。,ジム（さん）がひまなら、えいがにさそいたい/さそいたいです。,"If Jim is free (not busy), I'd like to invite him to the movie."
+11,134,242,Pattern,彼は雨が降ってもゴルフをする/します。,かれはあめがふってもゴルフをする/します。,He plays golf even if it rains.
+11,134,242,Pattern,難しくても勉強を続けたい/続けたいです。,むずかしくてもべんきょうをつづけたい/つづけたいです。,I want to continue studying even if it is difficult.
+11,134,242,Pattern,彼女は裕福でもお金を使わない/使いません。,かのじょはゆうふくでもおかねをつかわない/つかいません。,"Even though she is rich, she doesn't spend money."
+11,134,243,Example,ジェフさんは勉強しなくてもいつも成績がいいです。,ジェフさんはべんきょうしなくてもいつもせいせきがいいです。,"Even though Jeff doesn't study, his grades are always good."
+11,134,243,Example,彼は暑くてもエアコンを使わない。,かれはあつくてもエアコンをつかわない。,"Even if it is hot, he doesn't use the air conditioner."
+11,134,243,Example,安全でもそんな所へ行かないほうがいいですよ。,あんぜんでもそんなところへいかないほうがいいですよ。,"Even if it's safe, you had better not go to such a place."
+11,134,244,Practice,危険でもエベレスト山に登りたい/登りたいです。,きけんでもエベレストざんにのぼりたい/のぼりたいです。,I want to climb Mt. Everest even if it is dangerous.
+11,134,244,Practice,彼女はドレスを買っても着ない/着ません。,かのじょはドレスをかってもきない/きません。,She doesn't wear dresses even if she buys them.
+11,134,244,Practice,両親が反対しても彼と結婚するつもりだ/です。,りょうしんがはんたいしてもかれとけっこんするつもりだ/です。,"Even if my parents object, I intend to marry him."
+11,135,244,Pattern,私はセールスマンにだまされた/だまされました。,わたしはセールスマンにだまされた/だまされました。,I was deceived by the salesman.
+11,135,244,Example,健二は時々お父さんにしかられる。,けんじはときどきおとうさんにしかられる。,Kenji is sometimes scolded by his father.
+11,135,245,Example,この病院は１０年前に建てられた。,このびょういんはじゅうねんまえにたてられた。,This hospital was built ten years ago.
+11,135,245,Example,木村先生は学生に尊敬されています。,きむらせんせいはがくせいにそんけいされています。,Professor Kimura is respected by his students.
+11,135,245,Practice,秘書は部長にほめられた/ほめられました。,ひしょはぶちょうにほめられた/ほめられました。,The secretary was praised by the department head.
+11,135,245,Practice,今晩講堂でリサイタルが行われる/行われます。,こんばんこうどうでリサイタルがおこなわれる/おこなわれます。,A recital will be held in the auditorium this evening.
+11,135,245,Practice,ベンソンさんはレセプションに招待される/招待されます。,ベンソンさんはレセプションにしょうたいされる/しょうたいされます。,Mr. Benson will be invited to the reception.
+11,136,246,Pattern,勝は泥棒に自転車を盗まれた/盗まれました。,まさるはどろぼうにじてんしゃをぬすまれた/ぬすまれました。,Masaru had his bicycle stolen by a thief.
+11,136,246,Example,私は赤ちゃんにブラウスを汚された。,わたしはあかちゃんにブラウスをよごされた。,I had my blouse soiled by a baby.
+11,136,246,Example,息子は隣の犬に手をかまれた。,むすこはとなりのいぬにてをかまれた。,My son had his hand bitten by the neighbor's dog.
+11,136,246,Example,私は歯医者に歯を抜かれてしまった。,わたしははいしゃにはをぬかれてしまった。,I had a tooth pulled out by my dentist.
+11,136,247,Practice,私は友達に恋人を取られた/取られました。,わたしはともだちにこいびとをとられた/とられました。,I had my lover stolen by a friend.
+11,136,247,Practice,娘は隣の子供に人形を壊された/壊されました。,むすめはとなりのこどもににんぎょうをこわされた/こわされました。,My daughter had her doll broken by the neighbor's child.
+11,136,247,Practice,私は手紙を先生に破られた/破られました。,わたしはてがみをせんせいにやぶられた/やぶられました。,The letter was torn up by my teacher.
+11,137,247,Pattern,私は友達に夜遅くに来られた/来られました。,わたしはともだちによるおそくにこられた/こられました。,My friend came to my house late at night (much to my inconvenience).
+11,137,248,Example,私達は釣り場で雨に降られた。,わたしたちはつりばであめにふられた。,We were rained on at our fishing spot.
+11,137,248,Example,私は１年前に家内に死なれました。,わたしはいちねんまえにかないにしなれました。,My wife died a year ago (to my great grief).
+11,137,248,Example,私は劇場で大きい男の人に前に座られた。,わたしはげきじょうでおおきいおとこのひとにまえにすわられた。,A big man sat in front of me at the theater (and I was unhappy).
+11,137,249,Practice,私達は一晩中赤ちゃんに泣かれた/泣かれました。,わたしたちはひとばんじゅうあかちゃんになかれた/なかれました。,Our baby cried all night long (to our annoyance).
+11,137,249,Practice,隆（さん）はみんなに笑われた/笑われました。,たかし（さん）はみんなにわらわれた/わらわれました。,Takashi was laughed at by everybody.
+11,137,249,Practice,北さんは奥さんに出て行かれた/出て行かれました。,きたさんはおくさんにでていかれた/でていかれました。,Mr. Kita's wife left him.
+11,138,249,Pattern,佐々木さんは私にレポートを書かせた/書かせました。,ささきさんはわたしにレポートをかかせた/かかせました。,Mr. Sasaki made/let me write the report.
+11,138,250,Example,私は娘にピアノを習わせるつもりです。,わたしはむすめにピアノをならわせるつもりです。,I intend to make/let my daughter learn the piano.
+11,138,250,Example,社長は秘書を早く家へ帰らせた。,しゃちょうはひしょをはやくうちへかえらせた。,The president let his secretary go home early.
+11,138,250,Example,八木さんは息子を工場で働かせた。,やぎさんはむすこをこうじょうではたらかせた。,Mr. Yagi made/let his son work in the factory.
+11,138,250,Example,私は和夫をキャンプに行かせてやった。,わたしはかずおをキャンプにいかせてやった。,I let Kazuo go camping.
+11,138,250,Example,父は私にカメラを使わせてくれた。,ちちはわたしにカメラをつかわせてくれた。,My father let me use his camera.
+11,138,251,Practice,私は正子（さん）に部屋を掃除させた/掃除させました。,わたしはまさこ（さん）にへやをそうじさせた/そうじさせました。,I made Masako clean her room.
+11,138,251,Practice,彼は時々同僚を怒らせる/怒らせます。,かれはときどきどうりょうをおこらせる/おこらせます。,He sometimes makes his coworkers (get) angry.
+11,138,251,Practice,子供は犬を泳がせた/泳がせました。,こどもはいぬをおよがせた/およがせました。,The child made the dog swim.
+11,138,251,Practice,先生は学生に教室でテレビを見させた/見させました。,せんせいはがくせいにきょうしつでテレビをみさせた/みさせました。,The teacher let students watch TV in the classroom.
+11,139,251,Pattern,私は父に駅まで歩かせられた/歩かせられました。,わたしはちちにえきまであるかせられた/あるかせられました。,I was made to walk to the station by my father.
+11,139,252,Example,学生は先生に作文を書かせられる/書かされる。,がくせいはせんせいにさくぶんをかかせられる/かかされる。,Students are made to write compositions by their teachers.
+11,139,252,Example,私達は空港で長い間待たせられた/待たされた。,わたしたちはくうこうでながいあいだまたせられた/またされた。,We were made to wait for a long time at the airport.
+11,139,252,Example,小野さんは課長にデータを調べさせられた。,おのさんはかちょうにデータをしらべさせられた。,Mr. Ono was made to check the data by the section chief.
+11,139,252,Example,店員は８時までに店に来させられます。,てんいんははちじまでにみせにこさせられます。,The store clerks are made to come to the store by 8 o'clock.
+11,139,253,Practice,ベン（さん）は明（さん）に刺身を食べさせられた/食べさせられました。,ベン（さん）はあきら（さん）にさしみをたべさせられた/たべさせられました。,Ben was made to eat sashimi by Akira.
+11,139,253,Practice,私は母に銀の花瓶を磨かせられた/磨かせられました/磨かされた/磨かされました。,わたしはははにぎんのかびんをみがかせられた/みがかせられました/みがかされた/みがかされました。,I was made to polish a silver vase by my mother.
+11,139,253,Practice,正子（さん）は友達に高い香水を買わせられた/買わせられました/買わされた/買わされました。,まさこ（さん）はともだちにたかいこうすいをかわせられた/かわせられました/かわされた/かわされました。,Masako was made to buy expensive perfume by her friend.
+11,139,253,Practice,時々私はほかの人の仕事をさせられる/させられます。,ときどきわたしはほかのひとのしごとをさせられる/させられます。,Sometimes I am made to do someone else's work.
+12,140,254,Pattern,先生と話している学生はジョン・ミラーさんだ/です。,せんせいとはなしているがくせいはジョン・ミラーさんだ/です。,The student (who is) talking with the teacher is John Miller.
+12,140,254,Example,宴会に出ない人は佐田さんと南さんです。,えんかいにでないひとはさださんとみなみさんです。,Those who won't attend the banquet are Mr. Sada and Ms. Minami.
+12,140,254,Example,今、車を降りた人が新しい部長だ。,いま、くるまをおりたひとがあたらしいぶちょうだ。,The person who has just gotten out of the car is our new department head.
+12,140,255,Example,原宿へ行くバスはどれですか。,はらじゅくへいくバスはどれですか。,Which is the bus that goes to Harajuku?
+12,140,255,Example,入り口の前に止めてある車はベンソンさんのです。,いりぐちのまえにとめてあるくるまはベンソンさんのです。,The car (that's been) parked in front of the entrance is Mr. Benson's.
+12,140,255,Practice,あれは香港から来た飛行機だ/です。,あれはほんこんからきたひこうきだ/です。,That is the plane that came from Hong Kong.
+12,140,255,Practice,あの白いスカートをはいている人が岡村さんの奥さんだ/です。,あのしろいスカートをはいているひとがおかむらさんのおくさんだ/です。,The person who is wearing that white skirt is Mr. Okamura's wife.
+12,140,255,Practice,この機械を発明した人はアメリカ人だ/です。,このきかいをはつめいしたひとはアメリカじんだ/です。,The person who invented this machine is American.
+12,140,255,Practice,机の上に置いてある辞書はマイク（さん）のだ/です。,つくえのうえにおいてあるじしょはマイク（さん）のだ/です。,The dictionary (that has been placed) on the desk is Mike's.
+12,141,256,Pattern,彼が/の書く小説はいつもよく売れる/売れます。,かれが/のかくしょうせつはいつもよくうれる/うれます。,The novels (that) he writes always sell well.
+12,141,256,Example,これは主人が/の撮った写真です。,これはしゅじんが/のとったしゃしんです。,These are pictures that my husband took.
+12,141,256,Example,ピクニックに持って行く物を買いに行きましょう。,ピクニックにもっていくものをかいにいきましょう。,Let's go to buy the things we'll take to the picnic.
+12,141,256,Example,彼が/の働いていた会社は神戸にある。,かれが/のはたらいていたかいしゃはこうべにある。,The company he worked at is in Kobe.
+12,141,256,Example,雨が/の降らない週末にはゴルフかテニスをします。,あめが/のふらないしゅうまつにはゴルフかテニスをします。,"On weekends when it doesn't rain, I play golf or tennis."
+12,141,257,Practice,これは私が/の生まれた家だ/です。,これはわたしが/のうまれたうちだ/です。,This is the house where I was born.
+12,141,257,Practice,ゆり子（さん）が/の作ったパイはおいしかった/おいしかったです。,ゆりこ（さん）が/のつくったパイはおいしかった/おいしかったです。,The pie that Yuriko made was delicious.
+12,141,257,Practice,パーティーに要る物をこの紙に書いてください。OR この紙にパーティーに要る物を書いてください。,パーティーにいるものをこのかみにかいてください。OR このかみにパーティーにいるものをかいてください。,Please write on this (piece of) paper the things we'll need for the party.
+12,141,257,Practice,父にもらったカメラで写真を撮った/撮りました。,ちちにもらったカメラでしゃしんをとった/とりました。,I took some pictures with the camera I got from my father.
+12,142,258,Pattern,高かったコンピューターが安くなった/安くなりました。,たかかったコンピューターがやすくなった/やすくなりました。,The computers that were expensive have become cheaper.
+12,142,258,Example,英語が/の上手な人を知っていますか。,えいごが/のじょうずなひとをしっていますか。,Do you know someone who is good at English?
+12,142,258,Example,とても楽しかったカナダ旅行が終わりました。,とてもたのしかったカナダりょこうがおわりました。,"The trip to Canada, which was great fun, ended."
+12,142,258,Example,静かだった隣の部屋が急に騒がしくなった。,しずかだったとなりのへやがきゅうにさわがしくなった。,"The room next door, which had been quiet, suddenly became noisy."
+12,142,258,Example,娘は目が/の青い人形を欲しがった。,むすめはめが/のあおいにんぎょうをほしがった。,My daughter wanted a doll that had blue eyes.
+12,142,259,Practice,ダン（さん）は嫌いだった刺身が好きになった/なりました。,ダン（さん）はきらいだったさしみがすきになった/なりました。,Dan came to like the sashimi that he had disliked.
+12,142,259,Practice,アン（さん）はダンスが/の上手なサム（さん）と踊った/踊りました。,アン（さん）はダンスが/のじょうずなサム（さん）とおどった/おどりました。,"Anne danced with Sam, who was good at dancing."
+12,142,259,Practice,元気だった原さんが急に亡くなった/亡くなりました。,げんきだったはらさんがきゅうになくなった/なくなりました。,"Mr. Hara, who had been healthy, suddenly passed away."
+12,142,259,Practice,難しかった日本語が近頃やさしくなった/やさしくなりました。,むずかしかったにほんごがちかごろやさしくなった/やさしくなりました。,Japanese that was difficult has become easier these days.

@@ -1,0 +1,48 @@
+h1 {
+  font-size: 50px;
+}
+
+#box-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.box-type {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.kanji-sentence {
+  text-align: center;
+}
+
+.spoiler {
+  color: black;
+  background-color: black;
+  margin: auto;
+  display: table;
+}
+
+.spoiler:hover {
+  color: white;
+}
+
+.plain-text {
+  text-align: center;
+}
+
+.pattern-box {
+  background-color: Fuchsia;
+}
+
+.example-box {
+  background-color: DeepSkyBlue;
+}
+
+.practice-box {
+  background-color: yellow;
+}
+
+.practice-box, .example-box, .pattern-box {
+  outline: 1px solid black;
+}
